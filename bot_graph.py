@@ -38,7 +38,7 @@ for op in all_ops:
     if not bets:
         continue
     first_odd = bets[0].get("matchedOdd", 0)
-    if 15 <= first_odd <= 30:
+    if 15 <= first_odd <= 20:
         filtered.append(op)
 
 print(f"Ops with first matchedOdd in [15, 30]: {len(filtered)}")
@@ -103,7 +103,7 @@ ax.xaxis.set_major_locator(mdates.WeekdayLocator(interval=1))
 plt.xticks(rotation=35, ha="right")
 
 ax.set_title(f"Bot 17898 — Lay 1-0 | Cumulative P&L\n"
-             f"Filter: first bet matchedOdd ∈ [15, 30] | "
+             f"Filter: first bet matchedOdd ∈ [15, 20] | "
              f"{len(filtered)} ops | {wins}W / {losses}L ({wins/len(filtered)*100:.1f}%) | "
              f"Net: {cum_pl[-1]:+.2f}",
              fontsize=11, pad=14)
@@ -114,7 +114,7 @@ ax.spines["top"].set_visible(False)
 ax.spines["right"].set_visible(False)
 
 plt.tight_layout()
-out = "/home/user/gui/bot17898_cumpl_odds15_30.png"
+out = "/home/user/gui/bot17898_cumpl_odds15_20.png"
 plt.savefig(out, dpi=150, bbox_inches="tight")
 print(f"\nSaved to: {out}")
 plt.close()
