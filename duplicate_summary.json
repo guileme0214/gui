@@ -1,0 +1,2918 @@
+[
+  {
+    "bot1_id": 1334,
+    "bot1_name": "Lay Goleada da zebra visitante no 2x0 N\u00c3O fecha",
+    "bot2_id": 1438,
+    "bot2_name": "Lay Goleada da zebra visitante no 2x0 Fechando",
+    "overlap_count": 98,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Chelsea vs West Ham United",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-31T18:08:27.324Z"
+      },
+      {
+        "event": "Gent vs OH Leuven",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-07T20:18:28.051Z"
+      },
+      {
+        "event": "Venezia vs Modena",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-10T19:33:07.495Z"
+      },
+      {
+        "event": "Verl vs Jahn Regensburg",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-03T18:39:16.356Z"
+      },
+      {
+        "event": "De Graafschap vs Vitesse",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-08T11:50:38.051Z"
+      },
+      {
+        "event": "C\u00f3rdoba vs Real Sociedad II",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-15T13:24:23.156Z"
+      },
+      {
+        "event": "Auckland vs Macarthur",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-21T02:47:25.131Z"
+      },
+      {
+        "event": "Racing Santander vs Albacete",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.004,
+        "placedAt": "2026-03-21T15:45:06.639Z"
+      },
+      {
+        "event": "Coventry City vs West Bromwich Albion",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2025-11-22T13:04:52.056Z"
+      },
+      {
+        "event": "FC Bayern M\u00fcnchen vs SC Freiburg",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2025-11-22T14:49:25.661Z"
+      },
+      {
+        "event": "AFC Bournemouth vs West Ham United",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2025-11-22T15:37:31.268Z"
+      },
+      {
+        "event": "Liverpool vs Nottingham Forest",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2025-11-22T16:09:05.759Z"
+      },
+      {
+        "event": "Ajax vs Excelsior",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2025-11-22T18:51:57.082Z"
+      },
+      {
+        "event": "Ferencv\u00e1rosi vs Ny\u00edregyh\u00e1za Spartacus",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2025-11-22T19:03:27.202Z"
+      },
+      {
+        "event": "Uni\u00f3n Santa Fe vs Gimnasia La Plata",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2025-11-25T01:27:01.501Z"
+      },
+      {
+        "event": "West Bromwich Albion vs Swansea City",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2025-11-29T15:30:54.006Z"
+      },
+      {
+        "event": "Bologna vs Cremonese",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2025-12-01T20:24:05.999Z"
+      },
+      {
+        "event": "FC K\u00f8benhavn vs S\u00f8nderjyske Fodbold",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2025-12-07T18:18:24.216Z"
+      },
+      {
+        "event": "Colo-Colo vs Audax Italiano",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2025-12-07T21:30:51.203Z"
+      },
+      {
+        "event": "Egypt vs Jordan",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2025-12-09T15:13:38.834Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 144783,
+    "bot1_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol ",
+    "bot2_id": 144788,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol no Intervalo ou no 3\u00ba Gol",
+    "overlap_count": 84,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "AFC Bournemouth vs Brentford",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-03T19:36:14.134Z"
+      },
+      {
+        "event": "Fulham vs West Ham United",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-04T19:48:49.785Z"
+      },
+      {
+        "event": "Ludogorets vs Levski Sofia",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-05T16:39:56.303Z"
+      },
+      {
+        "event": "Tottenham Hotspur vs Crystal Palace",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-05T20:06:28.266Z"
+      },
+      {
+        "event": "Floridsdorfer AC vs Sturm Graz II",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-06T17:13:28.849Z"
+      },
+      {
+        "event": "Darmstadt 98 vs Holstein Kiel",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-07T12:05:41.988Z"
+      },
+      {
+        "event": "Osasuna vs Mallorca",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-07T13:08:52.541Z"
+      },
+      {
+        "event": "Sheffield United vs West Bromwich Albion",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.006,
+        "placedAt": "2026-03-07T15:06:34.370Z"
+      },
+      {
+        "event": "Union Saint-Gilloise vs Genk",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-07T19:52:37.456Z"
+      },
+      {
+        "event": "Columbus Crew vs Chicago Fire",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-08T00:46:01.634Z"
+      },
+      {
+        "event": "Philadelphia Union vs SJ Earthquakes",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-08T00:46:01.635Z"
+      },
+      {
+        "event": "Tigres UANL vs Monterrey",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-08T03:16:30.737Z"
+      },
+      {
+        "event": "Gaziantep F.K. vs Fatih Karag\u00fcmr\u00fck",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-08T10:37:00.152Z"
+      },
+      {
+        "event": "Sparta Rotterdam vs PEC Zwolle",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.009,
+        "placedAt": "2026-03-08T11:26:30.866Z"
+      },
+      {
+        "event": "Villarreal vs Elche",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-08T13:18:08.677Z"
+      },
+      {
+        "event": "Frosinone vs Sampdoria",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-08T14:07:40.324Z"
+      },
+      {
+        "event": "Fiorentina vs Parma",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-08T14:08:39.124Z"
+      },
+      {
+        "event": "Brest vs Le Havre",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-08T16:21:12.936Z"
+      },
+      {
+        "event": "LASK Linz vs Wolfsberger AC",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-08T16:27:14.321Z"
+      },
+      {
+        "event": "Racing Santander vs C\u00f3rdoba",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-08T17:38:14.156Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35706,
+    "bot1_name": "Lay Goleada Casa - Semi Bruto - Global",
+    "bot2_id": 144783,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol ",
+    "overlap_count": 81,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "AFC Bournemouth vs Brentford",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 23.631,
+        "placedAt": "2026-03-03T19:35:50.503Z"
+      },
+      {
+        "event": "Fulham vs West Ham United",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 174.0,
+        "placedAt": "2026-03-04T19:45:55.785Z"
+      },
+      {
+        "event": "Ludogorets vs Levski Sofia",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 3.244,
+        "placedAt": "2026-03-05T16:39:56.303Z"
+      },
+      {
+        "event": "Tottenham Hotspur vs Crystal Palace",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 4.293,
+        "placedAt": "2026-03-05T20:06:28.266Z"
+      },
+      {
+        "event": "Floridsdorfer AC vs Sturm Graz II",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 5.793,
+        "placedAt": "2026-03-06T17:13:28.849Z"
+      },
+      {
+        "event": "Darmstadt 98 vs Holstein Kiel",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 2.553,
+        "placedAt": "2026-03-07T12:05:41.988Z"
+      },
+      {
+        "event": "Osasuna vs Mallorca",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 31.625,
+        "placedAt": "2026-03-07T13:08:52.541Z"
+      },
+      {
+        "event": "Sheffield United vs West Bromwich Albion",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 2.542,
+        "placedAt": "2026-03-07T15:06:31.828Z"
+      },
+      {
+        "event": "Union Saint-Gilloise vs Genk",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 8.487,
+        "placedAt": "2026-03-07T19:52:37.456Z"
+      },
+      {
+        "event": "Columbus Crew vs Chicago Fire",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.702,
+        "placedAt": "2026-03-08T00:46:01.634Z"
+      },
+      {
+        "event": "Philadelphia Union vs SJ Earthquakes",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.701,
+        "placedAt": "2026-03-08T00:46:01.635Z"
+      },
+      {
+        "event": "Tigres UANL vs Monterrey",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 1.004,
+        "placedAt": "2026-03-08T03:16:30.737Z"
+      },
+      {
+        "event": "Gaziantep F.K. vs Fatih Karag\u00fcmr\u00fck",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.972,
+        "placedAt": "2026-03-08T10:37:00.152Z"
+      },
+      {
+        "event": "Sparta Rotterdam vs PEC Zwolle",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.824,
+        "placedAt": "2026-03-08T11:26:30.866Z"
+      },
+      {
+        "event": "Villarreal vs Elche",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 32.18,
+        "placedAt": "2026-03-08T13:17:36.497Z"
+      },
+      {
+        "event": "Frosinone vs Sampdoria",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 2.361,
+        "placedAt": "2026-03-08T14:07:37.963Z"
+      },
+      {
+        "event": "Fiorentina vs Parma",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 29.418,
+        "placedAt": "2026-03-08T14:08:39.124Z"
+      },
+      {
+        "event": "Brest vs Le Havre",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.099,
+        "placedAt": "2026-03-08T16:21:12.837Z"
+      },
+      {
+        "event": "LASK Linz vs Wolfsberger AC",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.554,
+        "placedAt": "2026-03-08T16:27:13.767Z"
+      },
+      {
+        "event": "Racing Santander vs C\u00f3rdoba",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.537,
+        "placedAt": "2026-03-08T17:38:13.619Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35706,
+    "bot1_name": "Lay Goleada Casa - Semi Bruto - Global",
+    "bot2_id": 144788,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol no Intervalo ou no 3\u00ba Gol",
+    "overlap_count": 80,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "AFC Bournemouth vs Brentford",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 23.631,
+        "placedAt": "2026-03-03T19:35:50.503Z"
+      },
+      {
+        "event": "Fulham vs West Ham United",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 174.0,
+        "placedAt": "2026-03-04T19:45:55.785Z"
+      },
+      {
+        "event": "Ludogorets vs Levski Sofia",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 3.244,
+        "placedAt": "2026-03-05T16:39:56.303Z"
+      },
+      {
+        "event": "Tottenham Hotspur vs Crystal Palace",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 4.293,
+        "placedAt": "2026-03-05T20:06:28.266Z"
+      },
+      {
+        "event": "Floridsdorfer AC vs Sturm Graz II",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 5.793,
+        "placedAt": "2026-03-06T17:13:28.849Z"
+      },
+      {
+        "event": "Darmstadt 98 vs Holstein Kiel",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 2.552,
+        "placedAt": "2026-03-07T12:05:41.989Z"
+      },
+      {
+        "event": "Osasuna vs Mallorca",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 31.624,
+        "placedAt": "2026-03-07T13:08:52.542Z"
+      },
+      {
+        "event": "Sheffield United vs West Bromwich Albion",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 2.548,
+        "placedAt": "2026-03-07T15:06:31.828Z"
+      },
+      {
+        "event": "Union Saint-Gilloise vs Genk",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 8.487,
+        "placedAt": "2026-03-07T19:52:37.456Z"
+      },
+      {
+        "event": "Columbus Crew vs Chicago Fire",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.701,
+        "placedAt": "2026-03-08T00:46:01.635Z"
+      },
+      {
+        "event": "Philadelphia Union vs SJ Earthquakes",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.701,
+        "placedAt": "2026-03-08T00:46:01.635Z"
+      },
+      {
+        "event": "Tigres UANL vs Monterrey",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 1.003,
+        "placedAt": "2026-03-08T03:16:30.738Z"
+      },
+      {
+        "event": "Gaziantep F.K. vs Fatih Karag\u00fcmr\u00fck",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.972,
+        "placedAt": "2026-03-08T10:37:00.152Z"
+      },
+      {
+        "event": "Sparta Rotterdam vs PEC Zwolle",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.815,
+        "placedAt": "2026-03-08T11:26:30.875Z"
+      },
+      {
+        "event": "Villarreal vs Elche",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 32.18,
+        "placedAt": "2026-03-08T13:17:36.497Z"
+      },
+      {
+        "event": "Frosinone vs Sampdoria",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 2.362,
+        "placedAt": "2026-03-08T14:07:37.963Z"
+      },
+      {
+        "event": "Fiorentina vs Parma",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 29.417,
+        "placedAt": "2026-03-08T14:08:39.125Z"
+      },
+      {
+        "event": "Brest vs Le Havre",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.1,
+        "placedAt": "2026-03-08T16:21:12.837Z"
+      },
+      {
+        "event": "LASK Linz vs Wolfsberger AC",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.555,
+        "placedAt": "2026-03-08T16:27:13.767Z"
+      },
+      {
+        "event": "Racing Santander vs C\u00f3rdoba",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.537,
+        "placedAt": "2026-03-08T17:38:13.619Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35296,
+    "bot1_name": "Lay Goleada Super Fav. Sem Fechar",
+    "bot2_id": 35298,
+    "bot2_name": "Lay Goleada Super Fav. Fechando no 3x0",
+    "overlap_count": 39,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Palmeiras vs Mirassol",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-15T21:58:14.659Z"
+      },
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.005,
+        "placedAt": "2026-03-22T19:10:16.068Z"
+      },
+      {
+        "event": "Cruzeiro vs Corinthians",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-25T23:10:36.072Z"
+      },
+      {
+        "event": "Palmeiras vs Fluminense",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-26T00:42:09.277Z"
+      },
+      {
+        "event": "Corinthians vs Bahia",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-28T23:16:12.549Z"
+      },
+      {
+        "event": "\u00cdA vs Afturelding",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-29T19:48:19.065Z"
+      },
+      {
+        "event": "Palmeiras vs Vit\u00f3ria",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-05T00:55:49.064Z"
+      },
+      {
+        "event": "Cruzeiro vs Coritiba",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-06T00:51:55.690Z"
+      },
+      {
+        "event": "Tigres UANL vs Forge",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-11T03:42:59.760Z"
+      },
+      {
+        "event": "Atl\u00e9tico Mineiro vs Remo",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-11T23:24:53.251Z"
+      },
+      {
+        "event": "Monterrey vs Xelaj\u00fa",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-12T03:45:47.754Z"
+      },
+      {
+        "event": "Athletico PR vs Santos",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-12T22:07:45.001Z"
+      },
+      {
+        "event": "Cruz Azul vs Vancouver FC",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-13T01:50:46.511Z"
+      },
+      {
+        "event": "Jamshedpur vs Mohammedan",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-15T11:44:25.262Z"
+      },
+      {
+        "event": "Mj\u00e4llby vs Kalmar",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-21T12:24:01.403Z"
+      },
+      {
+        "event": "Elfsborg vs Helsingborg",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.009,
+        "placedAt": "2026-02-22T14:50:58.987Z"
+      },
+      {
+        "event": "Malm\u00f6 FF vs Varberg BoIS",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.005,
+        "placedAt": "2026-02-22T16:36:14.399Z"
+      },
+      {
+        "event": "ATK Mohun Bagan vs Chennaiyin",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-23T14:50:59.114Z"
+      },
+      {
+        "event": "GAIS vs Landskrona",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-23T18:17:35.547Z"
+      },
+      {
+        "event": "Nashville SC vs Atl\u00e9tico Ottawa",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-25T01:33:46.686Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35293,
+    "bot1_name": "Lay Goleada Casa Fecha aos 80",
+    "bot2_id": 35298,
+    "bot2_name": "Lay Goleada Super Fav. Fechando no 3x0",
+    "overlap_count": 33,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Palmeiras vs Mirassol",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-15T21:58:14.659Z"
+      },
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-22T19:10:16.068Z"
+      },
+      {
+        "event": "Cruzeiro vs Corinthians",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-25T23:10:36.072Z"
+      },
+      {
+        "event": "Palmeiras vs Fluminense",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-26T00:42:09.277Z"
+      },
+      {
+        "event": "Corinthians vs Bahia",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 25.421,
+        "placedAt": "2026-01-28T23:15:47.128Z"
+      },
+      {
+        "event": "\u00cdA vs Afturelding",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-29T19:48:19.066Z"
+      },
+      {
+        "event": "Palmeiras vs Vit\u00f3ria",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-05T00:55:49.064Z"
+      },
+      {
+        "event": "Cruzeiro vs Coritiba",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-06T00:51:55.690Z"
+      },
+      {
+        "event": "Tigres UANL vs Forge",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-11T03:42:59.761Z"
+      },
+      {
+        "event": "Atl\u00e9tico Mineiro vs Remo",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-11T23:24:53.252Z"
+      },
+      {
+        "event": "Monterrey vs Xelaj\u00fa",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-12T03:45:47.755Z"
+      },
+      {
+        "event": "Athletico PR vs Santos",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-12T22:07:45.001Z"
+      },
+      {
+        "event": "Cruz Azul vs Vancouver FC",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-13T01:50:46.512Z"
+      },
+      {
+        "event": "Jamshedpur vs Mohammedan",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-15T11:44:25.261Z"
+      },
+      {
+        "event": "Elfsborg vs Helsingborg",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.017,
+        "placedAt": "2026-02-22T14:50:58.979Z"
+      },
+      {
+        "event": "Malm\u00f6 FF vs Varberg BoIS",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-22T16:36:14.399Z"
+      },
+      {
+        "event": "ATK Mohun Bagan vs Chennaiyin",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 299.953,
+        "placedAt": "2026-02-23T14:50:59.114Z"
+      },
+      {
+        "event": "GAIS vs Landskrona",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-23T18:17:35.547Z"
+      },
+      {
+        "event": "H\u00e4cken vs V\u00e4ster\u00e5s SK",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-01T14:44:46.504Z"
+      },
+      {
+        "event": "ATK Mohun Bagan vs Odisha FC",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-06T11:48:02.649Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35293,
+    "bot1_name": "Lay Goleada Casa Fecha aos 80",
+    "bot2_id": 35296,
+    "bot2_name": "Lay Goleada Super Fav. Sem Fechar",
+    "overlap_count": 33,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Palmeiras vs Mirassol",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-15T21:58:14.659Z"
+      },
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.003,
+        "placedAt": "2026-03-22T19:10:16.070Z"
+      },
+      {
+        "event": "Cruzeiro vs Corinthians",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-25T23:10:36.073Z"
+      },
+      {
+        "event": "Palmeiras vs Fluminense",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-26T00:42:09.279Z"
+      },
+      {
+        "event": "Corinthians vs Bahia",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 25.421,
+        "placedAt": "2026-01-28T23:15:47.128Z"
+      },
+      {
+        "event": "\u00cdA vs Afturelding",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-29T19:48:19.065Z"
+      },
+      {
+        "event": "Palmeiras vs Vit\u00f3ria",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-05T00:55:49.064Z"
+      },
+      {
+        "event": "Cruzeiro vs Coritiba",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-06T00:51:55.690Z"
+      },
+      {
+        "event": "Tigres UANL vs Forge",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-11T03:42:59.760Z"
+      },
+      {
+        "event": "Atl\u00e9tico Mineiro vs Remo",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-11T23:24:53.251Z"
+      },
+      {
+        "event": "Monterrey vs Xelaj\u00fa",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-12T03:45:47.754Z"
+      },
+      {
+        "event": "Athletico PR vs Santos",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-12T22:07:45.001Z"
+      },
+      {
+        "event": "Cruz Azul vs Vancouver FC",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-13T01:50:46.511Z"
+      },
+      {
+        "event": "Jamshedpur vs Mohammedan",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-15T11:44:25.261Z"
+      },
+      {
+        "event": "Elfsborg vs Helsingborg",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.008,
+        "placedAt": "2026-02-22T14:50:58.979Z"
+      },
+      {
+        "event": "Malm\u00f6 FF vs Varberg BoIS",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-22T16:36:14.401Z"
+      },
+      {
+        "event": "ATK Mohun Bagan vs Chennaiyin",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 299.952,
+        "placedAt": "2026-02-23T14:50:59.115Z"
+      },
+      {
+        "event": "GAIS vs Landskrona",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-23T18:17:35.548Z"
+      },
+      {
+        "event": "H\u00e4cken vs V\u00e4ster\u00e5s SK",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-01T14:44:46.505Z"
+      },
+      {
+        "event": "ATK Mohun Bagan vs Odisha FC",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-06T11:48:02.650Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 9173,
+    "bot1_name": "Contend ud 8",
+    "bot2_id": 101202,
+    "bot2_name": "Contend ud 6",
+    "overlap_count": 31,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "West Bromwich Albion vs Coventry City",
+        "market": "MATCH_ODDS",
+        "selection": "West Bromwich Albion",
+        "side": "BACK",
+        "delta_s": 0.797,
+        "placedAt": "2026-02-21T11:39:41.335Z"
+      },
+      {
+        "event": "Go Ahead Eagles vs Heracles Almelo",
+        "market": "MATCH_ODDS",
+        "selection": "Go Ahead Eagles",
+        "side": "BACK",
+        "delta_s": 76.685,
+        "placedAt": "2026-02-22T13:23:00.256Z"
+      },
+      {
+        "event": "Silkeborg IF vs FC Midtjylland",
+        "market": "MATCH_ODDS",
+        "selection": "Silkeborg IF",
+        "side": "BACK",
+        "delta_s": 16.866,
+        "placedAt": "2026-02-22T14:33:46.507Z"
+      },
+      {
+        "event": "Heidenheim vs VfB Stuttgart",
+        "market": "MATCH_ODDS",
+        "selection": "1. FC Heidenheim",
+        "side": "BACK",
+        "delta_s": 65.521,
+        "placedAt": "2026-02-22T17:33:01.406Z"
+      },
+      {
+        "event": "West Bromwich Albion vs Charlton Athletic",
+        "market": "MATCH_ODDS",
+        "selection": "West Bromwich Albion",
+        "side": "BACK",
+        "delta_s": 74.048,
+        "placedAt": "2026-02-24T18:53:30.304Z"
+      },
+      {
+        "event": "Leicester City vs Norwich City",
+        "market": "MATCH_ODDS",
+        "selection": "Leicester City",
+        "side": "BACK",
+        "delta_s": 76.971,
+        "placedAt": "2026-02-28T11:40:37.646Z"
+      },
+      {
+        "event": "Werder Bremen vs Heidenheim",
+        "market": "MATCH_ODDS",
+        "selection": "Werder Bremen",
+        "side": "BACK",
+        "delta_s": 74.411,
+        "placedAt": "2026-02-28T13:40:42.071Z"
+      },
+      {
+        "event": "Hellas Verona vs Napoli",
+        "market": "MATCH_ODDS",
+        "selection": "Hellas Verona",
+        "side": "BACK",
+        "delta_s": 76.787,
+        "placedAt": "2026-02-28T16:00:43.933Z"
+      },
+      {
+        "event": "Cremonese vs AC Milan",
+        "market": "MATCH_ODDS",
+        "selection": "Cremonese",
+        "side": "BACK",
+        "delta_s": 76.464,
+        "placedAt": "2026-03-01T10:30:38.669Z"
+      },
+      {
+        "event": "Elche vs Espanyol",
+        "market": "MATCH_ODDS",
+        "selection": "Elche CF",
+        "side": "BACK",
+        "delta_s": 76.782,
+        "placedAt": "2026-03-01T12:00:39.858Z"
+      },
+      {
+        "event": "Metz vs Brest",
+        "market": "MATCH_ODDS",
+        "selection": "FC Metz",
+        "side": "BACK",
+        "delta_s": 75.002,
+        "placedAt": "2026-03-01T15:20:42.838Z"
+      },
+      {
+        "event": "Pisa vs Bologna",
+        "market": "MATCH_ODDS",
+        "selection": "Pisa",
+        "side": "BACK",
+        "delta_s": 1.207,
+        "placedAt": "2026-03-02T16:38:08.826Z"
+      },
+      {
+        "event": "Santos Laguna vs Cruz Azul",
+        "market": "MATCH_ODDS",
+        "selection": "Santos Laguna",
+        "side": "BACK",
+        "delta_s": 2.907,
+        "placedAt": "2026-03-04T00:37:45.085Z"
+      },
+      {
+        "event": "Heidenheim vs TSG Hoffenheim",
+        "market": "MATCH_ODDS",
+        "selection": "1. FC Heidenheim",
+        "side": "BACK",
+        "delta_s": 7.867,
+        "placedAt": "2026-03-07T13:35:28.952Z"
+      },
+      {
+        "event": "Atlanta United vs Real Salt Lake",
+        "market": "MATCH_ODDS",
+        "selection": "Atlanta United FC",
+        "side": "BACK",
+        "delta_s": 0.826,
+        "placedAt": "2026-03-07T23:45:16.018Z"
+      },
+      {
+        "event": "Sporting KC vs San Diego",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting Kansas City",
+        "side": "BACK",
+        "delta_s": 1.27,
+        "placedAt": "2026-03-08T01:25:16.411Z"
+      },
+      {
+        "event": "Santa Clara vs Vit\u00f3ria Guimar\u00e3es",
+        "market": "MATCH_ODDS",
+        "selection": "Santa Clara",
+        "side": "BACK",
+        "delta_s": 1.958,
+        "placedAt": "2026-03-08T20:25:31.939Z"
+      },
+      {
+        "event": "Espanyol vs Real Oviedo",
+        "market": "MATCH_ODDS",
+        "selection": "Espanyol",
+        "side": "BACK",
+        "delta_s": 0.135,
+        "placedAt": "2026-03-09T19:01:50.896Z"
+      },
+      {
+        "event": "Leicester City vs Bristol City",
+        "market": "MATCH_ODDS",
+        "selection": "Leicester City",
+        "side": "BACK",
+        "delta_s": 4.359,
+        "placedAt": "2026-03-10T18:47:55.272Z"
+      },
+      {
+        "event": "Sheffield Wednesday vs Watford",
+        "market": "MATCH_ODDS",
+        "selection": "Sheffield Wednesday",
+        "side": "BACK",
+        "delta_s": 4.359,
+        "placedAt": "2026-03-10T18:47:55.272Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 9325,
+    "bot1_name": "Drakito nos Top da Europa Sem Fexo",
+    "bot2_id": 9328,
+    "bot2_name": "Drakito nos Top da Europa Com Fexo no Empate ",
+    "overlap_count": 31,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Napoli vs Fiorentina",
+        "market": "MATCH_ODDS",
+        "selection": "Fiorentina",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-31T17:16:10.076Z"
+      },
+      {
+        "event": "Chelsea vs Leeds United",
+        "market": "MATCH_ODDS",
+        "selection": "Leeds United",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-10T19:56:37.962Z"
+      },
+      {
+        "event": "Manchester City vs Nottingham Forest",
+        "market": "MATCH_ODDS",
+        "selection": "Nottingham Forest",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-04T20:02:52.722Z"
+      },
+      {
+        "event": "Napoli vs Torino",
+        "market": "MATCH_ODDS",
+        "selection": "Torino",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-06T20:05:42.199Z"
+      },
+      {
+        "event": "Inter vs Atalanta",
+        "market": "MATCH_ODDS",
+        "selection": "Atalanta",
+        "side": "LAY",
+        "delta_s": 0.021,
+        "placedAt": "2026-03-14T14:27:37.779Z"
+      },
+      {
+        "event": "Borussia Dortmund vs FC Augsburg",
+        "market": "MATCH_ODDS",
+        "selection": "FC Augsburg",
+        "side": "LAY",
+        "delta_s": 0.005,
+        "placedAt": "2026-03-14T15:13:43.219Z"
+      },
+      {
+        "event": "Liverpool vs Tottenham Hotspur",
+        "market": "MATCH_ODDS",
+        "selection": "Tottenham Hotspur",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-15T16:49:56.220Z"
+      },
+      {
+        "event": "Manchester United vs Aston Villa",
+        "market": "MATCH_ODDS",
+        "selection": "Aston Villa",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-15T15:11:56.133Z"
+      },
+      {
+        "event": "Napoli vs Sassuolo",
+        "market": "MATCH_ODDS",
+        "selection": "Sassuolo",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-17T17:30:11.220Z"
+      },
+      {
+        "event": "Juventus vs Lazio",
+        "market": "MATCH_ODDS",
+        "selection": "Lazio",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-08T20:21:01.263Z"
+      },
+      {
+        "event": "AC Milan vs Torino",
+        "market": "MATCH_ODDS",
+        "selection": "Torino",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-21T17:43:34.169Z"
+      },
+      {
+        "event": "Paris Saint Germain vs Rennes",
+        "market": "MATCH_ODDS",
+        "selection": "Stade Rennais",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2025-12-06T20:34:43.833Z"
+      },
+      {
+        "event": "Napoli vs Juventus",
+        "market": "MATCH_ODDS",
+        "selection": "Juventus",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2025-12-07T20:01:27.635Z"
+      },
+      {
+        "event": "Liverpool vs Brighton & Hove Albion",
+        "market": "MATCH_ODDS",
+        "selection": "Brighton & Hove Albion",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2025-12-13T15:21:29.522Z"
+      },
+      {
+        "event": "Chelsea vs Everton",
+        "market": "MATCH_ODDS",
+        "selection": "Everton",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2025-12-13T15:22:30.437Z"
+      },
+      {
+        "event": "Manchester United vs AFC Bournemouth",
+        "market": "MATCH_ODDS",
+        "selection": "AFC Bournemouth",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2025-12-15T20:16:25.766Z"
+      },
+      {
+        "event": "Manchester United vs Newcastle United",
+        "market": "MATCH_ODDS",
+        "selection": "Newcastle United",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2025-12-26T20:36:51.594Z"
+      },
+      {
+        "event": "Manchester United vs Wolverhampton Wanderers",
+        "market": "MATCH_ODDS",
+        "selection": "Wolverhampton Wanderers",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2025-12-30T20:45:32.215Z"
+      },
+      {
+        "event": "Atalanta vs Roma",
+        "market": "MATCH_ODDS",
+        "selection": "AS Roma",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-03T20:02:55.674Z"
+      },
+      {
+        "event": "Real Madrid vs Real Betis",
+        "market": "MATCH_ODDS",
+        "selection": "Real Betis",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-04T15:41:05.667Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 21759,
+    "bot1_name": "Espanha Back Casa Fexo no Green",
+    "bot2_id": 21822,
+    "bot2_name": "Espanha Back Casa Fexo no Red ",
+    "overlap_count": 22,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Real Madrid vs Rayo Vallecano",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-01T12:38:08.044Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Real Betis",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-08T17:02:36.258Z"
+      },
+      {
+        "event": "Real Madrid vs Real Betis",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-04T14:44:21.780Z"
+      },
+      {
+        "event": "Villarreal vs Deportivo Alav\u00e9s",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-01-10T15:00:32.598Z"
+      },
+      {
+        "event": "Real Madrid vs Levante",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-17T12:30:14.383Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Deportivo Alav\u00e9s",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-18T14:50:19.388Z"
+      },
+      {
+        "event": "Villarreal vs Real Madrid",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-24T19:48:00.656Z"
+      },
+      {
+        "event": "FC Barcelona vs Real Oviedo",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.004,
+        "placedAt": "2026-01-25T15:07:49.999Z"
+      },
+      {
+        "event": "FC Barcelona vs Mallorca",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-07T14:51:53.225Z"
+      },
+      {
+        "event": "Villarreal vs Espanyol",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-09T19:36:04.306Z"
+      },
+      {
+        "event": "Real Madrid vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-14T19:31:57.437Z"
+      },
+      {
+        "event": "Villarreal vs Valencia",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-22T19:33:19.241Z"
+      },
+      {
+        "event": "FC Barcelona vs Villarreal",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.015,
+        "placedAt": "2026-02-28T14:50:44.187Z"
+      },
+      {
+        "event": "Real Madrid vs Getafe",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.073,
+        "placedAt": "2026-03-02T19:38:08.090Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.006,
+        "placedAt": "2026-03-07T17:05:44.527Z"
+      },
+      {
+        "event": "Villarreal vs Elche",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.143,
+        "placedAt": "2026-03-08T12:35:22.186Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Getafe",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.026,
+        "placedAt": "2026-03-14T14:53:26.086Z"
+      },
+      {
+        "event": "Real Madrid vs Elche",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.109,
+        "placedAt": "2026-03-14T19:33:27.455Z"
+      },
+      {
+        "event": "FC Barcelona vs Sevilla",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.006,
+        "placedAt": "2026-03-15T14:53:36.721Z"
+      },
+      {
+        "event": "Villarreal vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.103,
+        "placedAt": "2026-03-20T19:37:45.635Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 21759,
+    "bot1_name": "Espanha Back Casa Fexo no Green",
+    "bot2_id": 21820,
+    "bot2_name": "Espanha Back Casa Punter",
+    "overlap_count": 22,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Real Madrid vs Rayo Vallecano",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-01T12:38:08.044Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Real Betis",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-08T17:02:36.258Z"
+      },
+      {
+        "event": "Real Madrid vs Real Betis",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-04T14:44:21.780Z"
+      },
+      {
+        "event": "Villarreal vs Deportivo Alav\u00e9s",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.007,
+        "placedAt": "2026-01-10T15:00:32.598Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Deportivo Alav\u00e9s",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-18T14:50:19.388Z"
+      },
+      {
+        "event": "Villarreal vs Real Madrid",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-01-24T19:48:00.656Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Mallorca",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-01-25T12:37:48.681Z"
+      },
+      {
+        "event": "FC Barcelona vs Real Oviedo",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.03,
+        "placedAt": "2026-01-25T15:07:49.999Z"
+      },
+      {
+        "event": "FC Barcelona vs Mallorca",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.004,
+        "placedAt": "2026-02-07T14:51:53.225Z"
+      },
+      {
+        "event": "Villarreal vs Espanyol",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-09T19:36:04.306Z"
+      },
+      {
+        "event": "Real Madrid vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-14T19:31:57.435Z"
+      },
+      {
+        "event": "Villarreal vs Valencia",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-22T19:33:19.243Z"
+      },
+      {
+        "event": "FC Barcelona vs Villarreal",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.01,
+        "placedAt": "2026-02-28T14:50:44.192Z"
+      },
+      {
+        "event": "Real Madrid vs Getafe",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.028,
+        "placedAt": "2026-03-02T19:38:08.135Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.009,
+        "placedAt": "2026-03-07T17:05:44.524Z"
+      },
+      {
+        "event": "Villarreal vs Elche",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.107,
+        "placedAt": "2026-03-08T12:35:22.222Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Getafe",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.027,
+        "placedAt": "2026-03-14T14:53:26.085Z"
+      },
+      {
+        "event": "Real Madrid vs Elche",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.127,
+        "placedAt": "2026-03-14T19:33:27.437Z"
+      },
+      {
+        "event": "FC Barcelona vs Sevilla",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.008,
+        "placedAt": "2026-03-15T14:53:36.719Z"
+      },
+      {
+        "event": "Villarreal vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.129,
+        "placedAt": "2026-03-20T19:37:45.609Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 21820,
+    "bot1_name": "Espanha Back Casa Punter",
+    "bot2_id": 21822,
+    "bot2_name": "Espanha Back Casa Fexo no Red ",
+    "overlap_count": 21,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Real Madrid vs Rayo Vallecano",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-01T12:38:08.044Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Real Betis",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-08T17:02:36.259Z"
+      },
+      {
+        "event": "Real Madrid vs Real Betis",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-04T14:44:21.780Z"
+      },
+      {
+        "event": "Villarreal vs Deportivo Alav\u00e9s",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.005,
+        "placedAt": "2026-01-10T15:00:32.600Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Deportivo Alav\u00e9s",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-18T14:50:19.388Z"
+      },
+      {
+        "event": "Villarreal vs Real Madrid",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-24T19:48:00.657Z"
+      },
+      {
+        "event": "FC Barcelona vs Real Oviedo",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.026,
+        "placedAt": "2026-01-25T15:07:50.003Z"
+      },
+      {
+        "event": "FC Barcelona vs Mallorca",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-07T14:51:53.228Z"
+      },
+      {
+        "event": "Villarreal vs Espanyol",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-09T19:36:04.307Z"
+      },
+      {
+        "event": "Real Madrid vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-14T19:31:57.435Z"
+      },
+      {
+        "event": "Villarreal vs Valencia",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-22T19:33:19.241Z"
+      },
+      {
+        "event": "FC Barcelona vs Villarreal",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.005,
+        "placedAt": "2026-02-28T14:50:44.187Z"
+      },
+      {
+        "event": "Real Madrid vs Getafe",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.045,
+        "placedAt": "2026-03-02T19:38:08.090Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-03-07T17:05:44.524Z"
+      },
+      {
+        "event": "Villarreal vs Elche",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.036,
+        "placedAt": "2026-03-08T12:35:22.186Z"
+      },
+      {
+        "event": "Atl\u00e9tico Madrid vs Getafe",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico de Madrid",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-14T14:53:26.085Z"
+      },
+      {
+        "event": "Real Madrid vs Elche",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 0.018,
+        "placedAt": "2026-03-14T19:33:27.437Z"
+      },
+      {
+        "event": "FC Barcelona vs Sevilla",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-15T14:53:36.719Z"
+      },
+      {
+        "event": "Villarreal vs Real Sociedad",
+        "market": "MATCH_ODDS",
+        "selection": "Villarreal",
+        "side": "BACK",
+        "delta_s": 0.026,
+        "placedAt": "2026-03-20T19:37:45.609Z"
+      },
+      {
+        "event": "FC Barcelona vs Rayo Vallecano",
+        "market": "MATCH_ODDS",
+        "selection": "FC Barcelona",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-03-22T12:37:52.683Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 21805,
+    "bot1_name": "Portugal Lay Fora Punter ",
+    "bot2_id": 21806,
+    "bot2_name": "Portugal Lay Fora Fexo no Green e no Red ",
+    "overlap_count": 13,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Benfica vs Vit\u00f3ria Guimar\u00e3es",
+        "market": "MATCH_ODDS",
+        "selection": "Vitoria de Guimaraes",
+        "side": "LAY",
+        "delta_s": 0.015,
+        "placedAt": "2026-03-21T17:47:50.542Z"
+      },
+      {
+        "event": "Benfica vs Estoril",
+        "market": "MATCH_ODDS",
+        "selection": "Estoril-Praia",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-03T17:34:21.972Z"
+      },
+      {
+        "event": "Sporting CP vs Casa Pia",
+        "market": "MATCH_ODDS",
+        "selection": "Casa Pia",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-16T19:50:15.208Z"
+      },
+      {
+        "event": "Benfica vs Estrela Amadora",
+        "market": "MATCH_ODDS",
+        "selection": "Club Football Estrela",
+        "side": "LAY",
+        "delta_s": 0.004,
+        "placedAt": "2026-01-25T17:38:11.197Z"
+      },
+      {
+        "event": "Porto vs Gil Vicente",
+        "market": "MATCH_ODDS",
+        "selection": "Gil Vicente",
+        "side": "LAY",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-26T19:47:48.631Z"
+      },
+      {
+        "event": "Sporting CP vs Nacional",
+        "market": "MATCH_ODDS",
+        "selection": "Nacional da Madeira",
+        "side": "LAY",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-01T17:37:14.845Z"
+      },
+      {
+        "event": "Benfica vs Alverca",
+        "market": "MATCH_ODDS",
+        "selection": "Alverca",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-08T20:02:29.531Z"
+      },
+      {
+        "event": "Porto vs Sporting CP",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-09T20:15:44.166Z"
+      },
+      {
+        "event": "Sporting CP vs Famalic\u00e3o",
+        "market": "MATCH_ODDS",
+        "selection": "Famalic\u00e3o",
+        "side": "LAY",
+        "delta_s": 0.004,
+        "placedAt": "2026-02-15T20:03:01.704Z"
+      },
+      {
+        "event": "Porto vs Arouca",
+        "market": "MATCH_ODDS",
+        "selection": "Futebol Clube de Arouca",
+        "side": "LAY",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-27T18:20:42.763Z"
+      },
+      {
+        "event": "Sporting CP vs Estoril",
+        "market": "MATCH_ODDS",
+        "selection": "Estoril-Praia",
+        "side": "LAY",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-27T20:20:45.392Z"
+      },
+      {
+        "event": "Benfica vs Porto",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "LAY",
+        "delta_s": 0.007,
+        "placedAt": "2026-03-08T17:35:40.946Z"
+      },
+      {
+        "event": "Porto vs Moreirense",
+        "market": "MATCH_ODDS",
+        "selection": "Moreirense FC",
+        "side": "LAY",
+        "delta_s": 0.004,
+        "placedAt": "2026-03-15T20:03:36.027Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 21762,
+    "bot1_name": "Portugal Back Casa Punter ",
+    "bot2_id": 21763,
+    "bot2_name": "Portugal Back Casa Fexo no Green ",
+    "overlap_count": 12,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Sporting CP vs Famalic\u00e3o",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-15T20:03:01.704Z"
+      },
+      {
+        "event": "Sporting CP vs Nacional",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-01T17:37:14.844Z"
+      },
+      {
+        "event": "Benfica vs Estoril",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-03T17:34:21.972Z"
+      },
+      {
+        "event": "Benfica vs Estrela Amadora",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-01-25T17:38:11.196Z"
+      },
+      {
+        "event": "Porto vs Gil Vicente",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-26T19:58:19.672Z"
+      },
+      {
+        "event": "Benfica vs Alverca",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-08T20:02:29.531Z"
+      },
+      {
+        "event": "Porto vs Sporting CP",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-09T20:15:44.165Z"
+      },
+      {
+        "event": "Porto vs Arouca",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-27T18:20:42.761Z"
+      },
+      {
+        "event": "Sporting CP vs Estoril",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.006,
+        "placedAt": "2026-02-27T20:20:45.388Z"
+      },
+      {
+        "event": "Benfica vs Porto",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-03-08T17:35:40.947Z"
+      },
+      {
+        "event": "Porto vs Moreirense",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-15T20:03:36.028Z"
+      },
+      {
+        "event": "Benfica vs Vit\u00f3ria Guimar\u00e3es",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.004,
+        "placedAt": "2026-03-21T17:47:50.547Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 21763,
+    "bot1_name": "Portugal Back Casa Fexo no Green ",
+    "bot2_id": 21765,
+    "bot2_name": "Portugal Back Casa Fexo no Red",
+    "overlap_count": 12,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Sporting CP vs Famalic\u00e3o",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-15T20:03:01.706Z"
+      },
+      {
+        "event": "Sporting CP vs Nacional",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-01T17:37:14.847Z"
+      },
+      {
+        "event": "Benfica vs Estoril",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-03T17:34:21.972Z"
+      },
+      {
+        "event": "Sporting CP vs Casa Pia",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-01-16T20:00:15.416Z"
+      },
+      {
+        "event": "Benfica vs Estrela Amadora",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.004,
+        "placedAt": "2026-01-25T17:38:11.199Z"
+      },
+      {
+        "event": "Benfica vs Alverca",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-08T20:02:29.533Z"
+      },
+      {
+        "event": "Porto vs Sporting CP",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-09T20:15:44.168Z"
+      },
+      {
+        "event": "Porto vs Arouca",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-02-27T18:20:42.761Z"
+      },
+      {
+        "event": "Sporting CP vs Estoril",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-27T20:20:45.388Z"
+      },
+      {
+        "event": "Benfica vs Porto",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-08T17:35:40.947Z"
+      },
+      {
+        "event": "Porto vs Moreirense",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-03-15T20:03:36.029Z"
+      },
+      {
+        "event": "Benfica vs Vit\u00f3ria Guimar\u00e3es",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-21T17:47:50.551Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 21762,
+    "bot1_name": "Portugal Back Casa Punter ",
+    "bot2_id": 21765,
+    "bot2_name": "Portugal Back Casa Fexo no Red",
+    "overlap_count": 11,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Sporting CP vs Famalic\u00e3o",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-15T20:03:01.704Z"
+      },
+      {
+        "event": "Sporting CP vs Nacional",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.005,
+        "placedAt": "2026-02-01T17:37:14.844Z"
+      },
+      {
+        "event": "Benfica vs Estoril",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.0,
+        "placedAt": "2026-01-03T17:34:21.972Z"
+      },
+      {
+        "event": "Benfica vs Estrela Amadora",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.007,
+        "placedAt": "2026-01-25T17:38:11.196Z"
+      },
+      {
+        "event": "Benfica vs Alverca",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-08T20:02:29.531Z"
+      },
+      {
+        "event": "Porto vs Sporting CP",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.004,
+        "placedAt": "2026-02-09T20:15:44.165Z"
+      },
+      {
+        "event": "Porto vs Arouca",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.003,
+        "placedAt": "2026-02-27T18:20:42.761Z"
+      },
+      {
+        "event": "Sporting CP vs Estoril",
+        "market": "MATCH_ODDS",
+        "selection": "Sporting CP",
+        "side": "BACK",
+        "delta_s": 0.005,
+        "placedAt": "2026-02-27T20:20:45.389Z"
+      },
+      {
+        "event": "Benfica vs Porto",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-08T17:35:40.948Z"
+      },
+      {
+        "event": "Porto vs Moreirense",
+        "market": "MATCH_ODDS",
+        "selection": "FC Porto",
+        "side": "BACK",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-15T20:03:36.028Z"
+      },
+      {
+        "event": "Benfica vs Vit\u00f3ria Guimar\u00e3es",
+        "market": "MATCH_ODDS",
+        "selection": "Benfica",
+        "side": "BACK",
+        "delta_s": 0.006,
+        "placedAt": "2026-03-21T17:47:50.547Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35675,
+    "bot1_name": "Drakito 2\u00ba Tempo",
+    "bot2_id": 35703,
+    "bot2_name": "Drakito 1\u00ba Tempo",
+    "overlap_count": 8,
+    "frequency": "frequent",
+    "events": [
+      {
+        "event": "Bragantino vs Atl\u00e9tico Mineiro",
+        "market": "MATCH_ODDS",
+        "selection": "Atl\u00e9tico Mineiro",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-04T22:45:54.801Z"
+      },
+      {
+        "event": "Ajax vs NEC Nijmegen",
+        "market": "MATCH_ODDS",
+        "selection": "NEC",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-02-21T21:07:04.050Z"
+      },
+      {
+        "event": "Fortuna D\u00fcsseldorf vs VfL Bochum 1848",
+        "market": "MATCH_ODDS",
+        "selection": "VfL Bochum",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-02-27T18:17:13.100Z"
+      },
+      {
+        "event": "Lens vs Metz",
+        "market": "MATCH_ODDS",
+        "selection": "FC Metz",
+        "side": "LAY",
+        "delta_s": 0.002,
+        "placedAt": "2026-03-08T14:46:40.936Z"
+      },
+      {
+        "event": "Inter vs Atalanta",
+        "market": "MATCH_ODDS",
+        "selection": "Atalanta",
+        "side": "LAY",
+        "delta_s": 90.099,
+        "placedAt": "2026-03-14T14:45:23.054Z"
+      },
+      {
+        "event": "Hertha BSC vs VfL Bochum 1848",
+        "market": "MATCH_ODDS",
+        "selection": "VfL Bochum",
+        "side": "LAY",
+        "delta_s": 0.004,
+        "placedAt": "2026-03-14T20:16:57.311Z"
+      },
+      {
+        "event": "Ipswich Town vs Millwall",
+        "market": "MATCH_ODDS",
+        "selection": "Millwall",
+        "side": "LAY",
+        "delta_s": 148.78,
+        "placedAt": "2026-03-21T13:14:48.111Z"
+      },
+      {
+        "event": "Olympique Lyonnais vs Monaco",
+        "market": "MATCH_ODDS",
+        "selection": "AS Monaco",
+        "side": "LAY",
+        "delta_s": 0.001,
+        "placedAt": "2026-03-22T14:59:04.553Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 9325,
+    "bot1_name": "Drakito nos Top da Europa Sem Fexo",
+    "bot2_id": 35703,
+    "bot2_name": "Drakito 1\u00ba Tempo",
+    "overlap_count": 3,
+    "frequency": "occasional",
+    "events": [
+      {
+        "event": "Napoli vs Fiorentina",
+        "market": "MATCH_ODDS",
+        "selection": "Fiorentina",
+        "side": "LAY",
+        "delta_s": 176.708,
+        "placedAt": "2026-01-31T17:16:10.076Z"
+      },
+      {
+        "event": "Chelsea vs Leeds United",
+        "market": "MATCH_ODDS",
+        "selection": "Leeds United",
+        "side": "LAY",
+        "delta_s": 19.564,
+        "placedAt": "2026-02-10T19:56:37.962Z"
+      },
+      {
+        "event": "Manchester City vs Nottingham Forest",
+        "market": "MATCH_ODDS",
+        "selection": "Nottingham Forest",
+        "side": "LAY",
+        "delta_s": 2.79,
+        "placedAt": "2026-03-04T20:02:52.722Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 9328,
+    "bot1_name": "Drakito nos Top da Europa Com Fexo no Empate ",
+    "bot2_id": 35703,
+    "bot2_name": "Drakito 1\u00ba Tempo",
+    "overlap_count": 3,
+    "frequency": "occasional",
+    "events": [
+      {
+        "event": "Napoli vs Fiorentina",
+        "market": "MATCH_ODDS",
+        "selection": "Fiorentina",
+        "side": "LAY",
+        "delta_s": 176.707,
+        "placedAt": "2026-01-31T17:16:10.077Z"
+      },
+      {
+        "event": "Chelsea vs Leeds United",
+        "market": "MATCH_ODDS",
+        "selection": "Leeds United",
+        "side": "LAY",
+        "delta_s": 19.564,
+        "placedAt": "2026-02-10T19:56:37.962Z"
+      },
+      {
+        "event": "Manchester City vs Nottingham Forest",
+        "market": "MATCH_ODDS",
+        "selection": "Nottingham Forest",
+        "side": "LAY",
+        "delta_s": 2.789,
+        "placedAt": "2026-03-04T20:02:52.723Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35689,
+    "bot1_name": "Back Casa - 1,40/2,40 - Sem saida - Global",
+    "bot2_id": 35696,
+    "bot2_name": "Back Pres Casa - 1,50/2,60 - Bruto - Global",
+    "overlap_count": 3,
+    "frequency": "occasional",
+    "events": [
+      {
+        "event": "Real Madrid vs Rayo Vallecano",
+        "market": "MATCH_ODDS",
+        "selection": "Real Madrid",
+        "side": "BACK",
+        "delta_s": 51.149,
+        "placedAt": "2026-02-01T14:14:36.032Z"
+      },
+      {
+        "event": "Flamengo vs Internacional",
+        "market": "MATCH_ODDS",
+        "selection": "Flamengo",
+        "side": "BACK",
+        "delta_s": 72.832,
+        "placedAt": "2026-02-04T22:41:46.942Z"
+      },
+      {
+        "event": "TSG Hoffenheim vs SC Freiburg",
+        "market": "MATCH_ODDS",
+        "selection": "1899 Hoffenheim",
+        "side": "BACK",
+        "delta_s": 0.006,
+        "placedAt": "2026-02-14T15:01:23.484Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35298,
+    "bot1_name": "Lay Goleada Super Fav. Fechando no 3x0",
+    "bot2_id": 35706,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global",
+    "overlap_count": 2,
+    "frequency": "occasional",
+    "events": [
+      {
+        "event": "Cruzeiro vs Corinthians",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 190.639,
+        "placedAt": "2026-02-25T23:07:25.433Z"
+      },
+      {
+        "event": "Palmeiras vs Fluminense",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 281.114,
+        "placedAt": "2026-02-26T00:37:28.163Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35293,
+    "bot1_name": "Lay Goleada Casa Fecha aos 80",
+    "bot2_id": 35706,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global",
+    "overlap_count": 2,
+    "frequency": "occasional",
+    "events": [
+      {
+        "event": "Cruzeiro vs Corinthians",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 190.64,
+        "placedAt": "2026-02-25T23:07:25.433Z"
+      },
+      {
+        "event": "Palmeiras vs Fluminense",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 281.116,
+        "placedAt": "2026-02-26T00:37:28.163Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35296,
+    "bot1_name": "Lay Goleada Super Fav. Sem Fechar",
+    "bot2_id": 35706,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global",
+    "overlap_count": 2,
+    "frequency": "occasional",
+    "events": [
+      {
+        "event": "Cruzeiro vs Corinthians",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 190.641,
+        "placedAt": "2026-02-25T23:07:25.433Z"
+      },
+      {
+        "event": "Palmeiras vs Fluminense",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 281.116,
+        "placedAt": "2026-02-26T00:37:28.163Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35298,
+    "bot1_name": "Lay Goleada Super Fav. Fechando no 3x0",
+    "bot2_id": 144788,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol no Intervalo ou no 3\u00ba Gol",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 178.929,
+        "placedAt": "2026-03-22T19:07:17.139Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35293,
+    "bot1_name": "Lay Goleada Casa Fecha aos 80",
+    "bot2_id": 144788,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol no Intervalo ou no 3\u00ba Gol",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 178.931,
+        "placedAt": "2026-03-22T19:07:17.139Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35296,
+    "bot1_name": "Lay Goleada Super Fav. Sem Fechar",
+    "bot2_id": 144788,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol no Intervalo ou no 3\u00ba Gol",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 178.934,
+        "placedAt": "2026-03-22T19:07:17.139Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35298,
+    "bot1_name": "Lay Goleada Super Fav. Fechando no 3x0",
+    "bot2_id": 144783,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol ",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 178.929,
+        "placedAt": "2026-03-22T19:07:17.139Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35293,
+    "bot1_name": "Lay Goleada Casa Fecha aos 80",
+    "bot2_id": 144783,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol ",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 178.931,
+        "placedAt": "2026-03-22T19:07:17.139Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 35296,
+    "bot1_name": "Lay Goleada Super Fav. Sem Fechar",
+    "bot2_id": 144783,
+    "bot2_name": "Lay Goleada Casa - Semi Bruto - Global Fecha no 2\u00ba Gol ",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Vasco da Gama vs Gr\u00eamio",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER HOME WIN",
+        "side": "LAY",
+        "delta_s": 178.934,
+        "placedAt": "2026-03-22T19:07:17.139Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 1438,
+    "bot1_name": "Lay Goleada da zebra visitante no 2x0 Fechando",
+    "bot2_id": 35705,
+    "bot2_name": "Lay Goleada Fora - 0x2 - Semi Bruto - Global",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Auckland vs Macarthur",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 254.373,
+        "placedAt": "2026-03-21T02:47:25.131Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 1334,
+    "bot1_name": "Lay Goleada da zebra visitante no 2x0 N\u00c3O fecha",
+    "bot2_id": 35705,
+    "bot2_name": "Lay Goleada Fora - 0x2 - Semi Bruto - Global",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Auckland vs Macarthur",
+        "market": "CORRECT_SCORE",
+        "selection": "ANY OTHER AWAY WIN",
+        "side": "LAY",
+        "delta_s": 254.373,
+        "placedAt": "2026-03-21T02:47:25.131Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 1868,
+    "bot1_name": "Lay Zebr\u00e3o",
+    "bot2_id": 35703,
+    "bot2_name": "Drakito 1\u00ba Tempo",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Benfica vs Vit\u00f3ria Guimar\u00e3es",
+        "market": "MATCH_ODDS",
+        "selection": "Vitoria de Guimaraes",
+        "side": "LAY",
+        "delta_s": 228.116,
+        "placedAt": "2026-03-21T18:16:04.445Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 9328,
+    "bot1_name": "Drakito nos Top da Europa Com Fexo no Empate ",
+    "bot2_id": 35675,
+    "bot2_name": "Drakito 2\u00ba Tempo",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Manchester United vs Aston Villa",
+        "market": "MATCH_ODDS",
+        "selection": "Aston Villa",
+        "side": "LAY",
+        "delta_s": 8.426,
+        "placedAt": "2026-03-15T15:11:56.133Z"
+      }
+    ]
+  },
+  {
+    "bot1_id": 9325,
+    "bot1_name": "Drakito nos Top da Europa Sem Fexo",
+    "bot2_id": 35675,
+    "bot2_name": "Drakito 2\u00ba Tempo",
+    "overlap_count": 1,
+    "frequency": "rare",
+    "events": [
+      {
+        "event": "Manchester United vs Aston Villa",
+        "market": "MATCH_ODDS",
+        "selection": "Aston Villa",
+        "side": "LAY",
+        "delta_s": 8.424,
+        "placedAt": "2026-03-15T15:11:56.135Z"
+      }
+    ]
+  }
+]

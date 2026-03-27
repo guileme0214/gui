@@ -1,0 +1,417 @@
+======================================================================
+DUPLICATE BET ANALYSIS — Sweet-Spot Bots
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 1334 × Bot 1438  →  98 overlapping bet(s)
+  Lay Goleada da zebra visitante no 2x0 NÃO fecha
+  Lay Goleada da zebra visitante no 2x0 Fechando
+  Overlaps:
+    • 2026-01-31  Chelsea vs West Ham United  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2026-02-07  Gent vs OH Leuven  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2026-02-10  Venezia vs Modena  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2026-03-03  Verl vs Jahn Regensburg  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2026-03-08  De Graafschap vs Vitesse  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2026-03-15  Córdoba vs Real Sociedad II  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2026-03-21  Auckland vs Macarthur  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2026-03-21  Racing Santander vs Albacete  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2025-11-22  Coventry City vs West Bromwich Albion  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    • 2025-11-22  FC Bayern München vs SC Freiburg  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ0s)
+    ... and 88 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 144783 × Bot 144788  →  84 overlapping bet(s)
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol 
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol no Intervalo ou no 3º Gol
+  Overlaps:
+    • 2026-03-03  AFC Bournemouth vs Brentford  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-04  Fulham vs West Ham United  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-05  Ludogorets vs Levski Sofia  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-05  Tottenham Hotspur vs Crystal Palace  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-06  Floridsdorfer AC vs Sturm Graz II  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-07  Darmstadt 98 vs Holstein Kiel  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-07  Osasuna vs Mallorca  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-07  Sheffield United vs West Bromwich Albion  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-07  Union Saint-Gilloise vs Genk  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-08  Columbus Crew vs Chicago Fire  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    ... and 74 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 35706 × Bot 144783  →  81 overlapping bet(s)
+  Lay Goleada Casa - Semi Bruto - Global
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol 
+  Overlaps:
+    • 2026-03-03  AFC Bournemouth vs Brentford  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ24s)
+    • 2026-03-04  Fulham vs West Ham United  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ174s)
+    • 2026-03-05  Ludogorets vs Levski Sofia  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ3s)
+    • 2026-03-05  Tottenham Hotspur vs Crystal Palace  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ4s)
+    • 2026-03-06  Floridsdorfer AC vs Sturm Graz II  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ6s)
+    • 2026-03-07  Darmstadt 98 vs Holstein Kiel  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ3s)
+    • 2026-03-07  Osasuna vs Mallorca  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ32s)
+    • 2026-03-07  Sheffield United vs West Bromwich Albion  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ3s)
+    • 2026-03-07  Union Saint-Gilloise vs Genk  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ8s)
+    • 2026-03-08  Columbus Crew vs Chicago Fire  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ1s)
+    ... and 71 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 35706 × Bot 144788  →  80 overlapping bet(s)
+  Lay Goleada Casa - Semi Bruto - Global
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol no Intervalo ou no 3º Gol
+  Overlaps:
+    • 2026-03-03  AFC Bournemouth vs Brentford  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ24s)
+    • 2026-03-04  Fulham vs West Ham United  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ174s)
+    • 2026-03-05  Ludogorets vs Levski Sofia  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ3s)
+    • 2026-03-05  Tottenham Hotspur vs Crystal Palace  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ4s)
+    • 2026-03-06  Floridsdorfer AC vs Sturm Graz II  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ6s)
+    • 2026-03-07  Darmstadt 98 vs Holstein Kiel  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ3s)
+    • 2026-03-07  Osasuna vs Mallorca  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ32s)
+    • 2026-03-07  Sheffield United vs West Bromwich Albion  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ3s)
+    • 2026-03-07  Union Saint-Gilloise vs Genk  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ8s)
+    • 2026-03-08  Columbus Crew vs Chicago Fire  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ1s)
+    ... and 70 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 35296 × Bot 35298  →  39 overlapping bet(s)
+  Lay Goleada Super Fav. Sem Fechar
+  Lay Goleada Super Fav. Fechando no 3x0
+  Overlaps:
+    • 2026-03-15  Palmeiras vs Mirassol  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-25  Cruzeiro vs Corinthians  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-26  Palmeiras vs Fluminense  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-01-28  Corinthians vs Bahia  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-01-29  ÍA vs Afturelding  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-05  Palmeiras vs Vitória  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-06  Cruzeiro vs Coritiba  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-11  Tigres UANL vs Forge  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-11  Atlético Mineiro vs Remo  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    ... and 29 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 35293 × Bot 35298  →  33 overlapping bet(s)
+  Lay Goleada Casa Fecha aos 80
+  Lay Goleada Super Fav. Fechando no 3x0
+  Overlaps:
+    • 2026-03-15  Palmeiras vs Mirassol  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-25  Cruzeiro vs Corinthians  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-26  Palmeiras vs Fluminense  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-01-28  Corinthians vs Bahia  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ25s)
+    • 2026-01-29  ÍA vs Afturelding  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-05  Palmeiras vs Vitória  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-06  Cruzeiro vs Coritiba  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-11  Tigres UANL vs Forge  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-11  Atlético Mineiro vs Remo  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    ... and 23 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 35293 × Bot 35296  →  33 overlapping bet(s)
+  Lay Goleada Casa Fecha aos 80
+  Lay Goleada Super Fav. Sem Fechar
+  Overlaps:
+    • 2026-03-15  Palmeiras vs Mirassol  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-25  Cruzeiro vs Corinthians  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-26  Palmeiras vs Fluminense  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-01-28  Corinthians vs Bahia  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ25s)
+    • 2026-01-29  ÍA vs Afturelding  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-05  Palmeiras vs Vitória  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-06  Cruzeiro vs Coritiba  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-11  Tigres UANL vs Forge  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    • 2026-02-11  Atlético Mineiro vs Remo  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ0s)
+    ... and 23 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 9173 × Bot 101202  →  31 overlapping bet(s)
+  Contend ud 8
+  Contend ud 6
+  Overlaps:
+    • 2026-02-21  West Bromwich Albion vs Coventry City  [MATCH_ODDS] BACK West Bromwich Albion  (Δ1s)
+    • 2026-02-22  Go Ahead Eagles vs Heracles Almelo  [MATCH_ODDS] BACK Go Ahead Eagles  (Δ77s)
+    • 2026-02-22  Silkeborg IF vs FC Midtjylland  [MATCH_ODDS] BACK Silkeborg IF  (Δ17s)
+    • 2026-02-22  Heidenheim vs VfB Stuttgart  [MATCH_ODDS] BACK 1. FC Heidenheim  (Δ66s)
+    • 2026-02-24  West Bromwich Albion vs Charlton Athletic  [MATCH_ODDS] BACK West Bromwich Albion  (Δ74s)
+    • 2026-02-28  Leicester City vs Norwich City  [MATCH_ODDS] BACK Leicester City  (Δ77s)
+    • 2026-02-28  Werder Bremen vs Heidenheim  [MATCH_ODDS] BACK Werder Bremen  (Δ74s)
+    • 2026-02-28  Hellas Verona vs Napoli  [MATCH_ODDS] BACK Hellas Verona  (Δ77s)
+    • 2026-03-01  Cremonese vs AC Milan  [MATCH_ODDS] BACK Cremonese  (Δ76s)
+    • 2026-03-01  Elche vs Espanyol  [MATCH_ODDS] BACK Elche CF  (Δ77s)
+    ... and 21 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 9325 × Bot 9328  →  31 overlapping bet(s)
+  Drakito nos Top da Europa Sem Fexo
+  Drakito nos Top da Europa Com Fexo no Empate 
+  Overlaps:
+    • 2026-01-31  Napoli vs Fiorentina  [MATCH_ODDS] LAY Fiorentina  (Δ0s)
+    • 2026-02-10  Chelsea vs Leeds United  [MATCH_ODDS] LAY Leeds United  (Δ0s)
+    • 2026-03-04  Manchester City vs Nottingham Forest  [MATCH_ODDS] LAY Nottingham Forest  (Δ0s)
+    • 2026-03-06  Napoli vs Torino  [MATCH_ODDS] LAY Torino  (Δ0s)
+    • 2026-03-14  Inter vs Atalanta  [MATCH_ODDS] LAY Atalanta  (Δ0s)
+    • 2026-03-14  Borussia Dortmund vs FC Augsburg  [MATCH_ODDS] LAY FC Augsburg  (Δ0s)
+    • 2026-03-15  Liverpool vs Tottenham Hotspur  [MATCH_ODDS] LAY Tottenham Hotspur  (Δ0s)
+    • 2026-03-15  Manchester United vs Aston Villa  [MATCH_ODDS] LAY Aston Villa  (Δ0s)
+    • 2026-01-17  Napoli vs Sassuolo  [MATCH_ODDS] LAY Sassuolo  (Δ0s)
+    • 2026-02-08  Juventus vs Lazio  [MATCH_ODDS] LAY Lazio  (Δ0s)
+    ... and 21 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 21759 × Bot 21822  →  22 overlapping bet(s)
+  Espanha Back Casa Fexo no Green
+  Espanha Back Casa Fexo no Red 
+  Overlaps:
+    • 2026-02-01  Real Madrid vs Rayo Vallecano  [MATCH_ODDS] BACK Real Madrid  (Δ0s)
+    • 2026-02-08  Atlético Madrid vs Real Betis  [MATCH_ODDS] BACK Atlético de Madrid  (Δ0s)
+    • 2026-01-04  Real Madrid vs Real Betis  [MATCH_ODDS] BACK Real Madrid  (Δ0s)
+    • 2026-01-10  Villarreal vs Deportivo Alavés  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    • 2026-01-17  Real Madrid vs Levante  [MATCH_ODDS] BACK Real Madrid  (Δ0s)
+    • 2026-01-18  Atlético Madrid vs Deportivo Alavés  [MATCH_ODDS] BACK Atlético de Madrid  (Δ0s)
+    • 2026-01-24  Villarreal vs Real Madrid  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    • 2026-01-25  FC Barcelona vs Real Oviedo  [MATCH_ODDS] BACK FC Barcelona  (Δ0s)
+    • 2026-02-07  FC Barcelona vs Mallorca  [MATCH_ODDS] BACK FC Barcelona  (Δ0s)
+    • 2026-02-09  Villarreal vs Espanyol  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    ... and 12 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 21759 × Bot 21820  →  22 overlapping bet(s)
+  Espanha Back Casa Fexo no Green
+  Espanha Back Casa Punter
+  Overlaps:
+    • 2026-02-01  Real Madrid vs Rayo Vallecano  [MATCH_ODDS] BACK Real Madrid  (Δ0s)
+    • 2026-02-08  Atlético Madrid vs Real Betis  [MATCH_ODDS] BACK Atlético de Madrid  (Δ0s)
+    • 2026-01-04  Real Madrid vs Real Betis  [MATCH_ODDS] BACK Real Madrid  (Δ0s)
+    • 2026-01-10  Villarreal vs Deportivo Alavés  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    • 2026-01-18  Atlético Madrid vs Deportivo Alavés  [MATCH_ODDS] BACK Atlético de Madrid  (Δ0s)
+    • 2026-01-24  Villarreal vs Real Madrid  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    • 2026-01-25  Atlético Madrid vs Mallorca  [MATCH_ODDS] BACK Atlético de Madrid  (Δ0s)
+    • 2026-01-25  FC Barcelona vs Real Oviedo  [MATCH_ODDS] BACK FC Barcelona  (Δ0s)
+    • 2026-02-07  FC Barcelona vs Mallorca  [MATCH_ODDS] BACK FC Barcelona  (Δ0s)
+    • 2026-02-09  Villarreal vs Espanyol  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    ... and 12 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 21820 × Bot 21822  →  21 overlapping bet(s)
+  Espanha Back Casa Punter
+  Espanha Back Casa Fexo no Red 
+  Overlaps:
+    • 2026-02-01  Real Madrid vs Rayo Vallecano  [MATCH_ODDS] BACK Real Madrid  (Δ0s)
+    • 2026-02-08  Atlético Madrid vs Real Betis  [MATCH_ODDS] BACK Atlético de Madrid  (Δ0s)
+    • 2026-01-04  Real Madrid vs Real Betis  [MATCH_ODDS] BACK Real Madrid  (Δ0s)
+    • 2026-01-10  Villarreal vs Deportivo Alavés  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    • 2026-01-18  Atlético Madrid vs Deportivo Alavés  [MATCH_ODDS] BACK Atlético de Madrid  (Δ0s)
+    • 2026-01-24  Villarreal vs Real Madrid  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    • 2026-01-25  FC Barcelona vs Real Oviedo  [MATCH_ODDS] BACK FC Barcelona  (Δ0s)
+    • 2026-02-07  FC Barcelona vs Mallorca  [MATCH_ODDS] BACK FC Barcelona  (Δ0s)
+    • 2026-02-09  Villarreal vs Espanyol  [MATCH_ODDS] BACK Villarreal  (Δ0s)
+    • 2026-02-14  Real Madrid vs Real Sociedad  [MATCH_ODDS] BACK Real Madrid  (Δ0s)
+    ... and 11 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 21805 × Bot 21806  →  13 overlapping bet(s)
+  Portugal Lay Fora Punter 
+  Portugal Lay Fora Fexo no Green e no Red 
+  Overlaps:
+    • 2026-03-21  Benfica vs Vitória Guimarães  [MATCH_ODDS] LAY Vitoria de Guimaraes  (Δ0s)
+    • 2026-01-03  Benfica vs Estoril  [MATCH_ODDS] LAY Estoril-Praia  (Δ0s)
+    • 2026-01-16  Sporting CP vs Casa Pia  [MATCH_ODDS] LAY Casa Pia  (Δ0s)
+    • 2026-01-25  Benfica vs Estrela Amadora  [MATCH_ODDS] LAY Club Football Estrela  (Δ0s)
+    • 2026-01-26  Porto vs Gil Vicente  [MATCH_ODDS] LAY Gil Vicente  (Δ0s)
+    • 2026-02-01  Sporting CP vs Nacional  [MATCH_ODDS] LAY Nacional da Madeira  (Δ0s)
+    • 2026-02-08  Benfica vs Alverca  [MATCH_ODDS] LAY Alverca  (Δ0s)
+    • 2026-02-09  Porto vs Sporting CP  [MATCH_ODDS] LAY Sporting CP  (Δ0s)
+    • 2026-02-15  Sporting CP vs Famalicão  [MATCH_ODDS] LAY Famalicão  (Δ0s)
+    • 2026-02-27  Porto vs Arouca  [MATCH_ODDS] LAY Futebol Clube de Arouca  (Δ0s)
+    ... and 3 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 21762 × Bot 21763  →  12 overlapping bet(s)
+  Portugal Back Casa Punter 
+  Portugal Back Casa Fexo no Green 
+  Overlaps:
+    • 2026-02-15  Sporting CP vs Famalicão  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-02-01  Sporting CP vs Nacional  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-01-03  Benfica vs Estoril  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-01-25  Benfica vs Estrela Amadora  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-01-26  Porto vs Gil Vicente  [MATCH_ODDS] BACK FC Porto  (Δ0s)
+    • 2026-02-08  Benfica vs Alverca  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-02-09  Porto vs Sporting CP  [MATCH_ODDS] BACK FC Porto  (Δ0s)
+    • 2026-02-27  Porto vs Arouca  [MATCH_ODDS] BACK FC Porto  (Δ0s)
+    • 2026-02-27  Sporting CP vs Estoril  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-03-08  Benfica vs Porto  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    ... and 2 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 21763 × Bot 21765  →  12 overlapping bet(s)
+  Portugal Back Casa Fexo no Green 
+  Portugal Back Casa Fexo no Red
+  Overlaps:
+    • 2026-02-15  Sporting CP vs Famalicão  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-02-01  Sporting CP vs Nacional  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-01-03  Benfica vs Estoril  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-01-16  Sporting CP vs Casa Pia  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-01-25  Benfica vs Estrela Amadora  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-02-08  Benfica vs Alverca  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-02-09  Porto vs Sporting CP  [MATCH_ODDS] BACK FC Porto  (Δ0s)
+    • 2026-02-27  Porto vs Arouca  [MATCH_ODDS] BACK FC Porto  (Δ0s)
+    • 2026-02-27  Sporting CP vs Estoril  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-03-08  Benfica vs Porto  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    ... and 2 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 21762 × Bot 21765  →  11 overlapping bet(s)
+  Portugal Back Casa Punter 
+  Portugal Back Casa Fexo no Red
+  Overlaps:
+    • 2026-02-15  Sporting CP vs Famalicão  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-02-01  Sporting CP vs Nacional  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-01-03  Benfica vs Estoril  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-01-25  Benfica vs Estrela Amadora  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-02-08  Benfica vs Alverca  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-02-09  Porto vs Sporting CP  [MATCH_ODDS] BACK FC Porto  (Δ0s)
+    • 2026-02-27  Porto vs Arouca  [MATCH_ODDS] BACK FC Porto  (Δ0s)
+    • 2026-02-27  Sporting CP vs Estoril  [MATCH_ODDS] BACK Sporting CP  (Δ0s)
+    • 2026-03-08  Benfica vs Porto  [MATCH_ODDS] BACK Benfica  (Δ0s)
+    • 2026-03-15  Porto vs Moreirense  [MATCH_ODDS] BACK FC Porto  (Δ0s)
+    ... and 1 more
+
+──────────────────────────────────────────────────────────────────────
+[FREQUENT] Bot 35675 × Bot 35703  →  8 overlapping bet(s)
+  Drakito 2º Tempo
+  Drakito 1º Tempo
+  Overlaps:
+    • 2026-02-04  Bragantino vs Atlético Mineiro  [MATCH_ODDS] LAY Atlético Mineiro  (Δ0s)
+    • 2026-02-21  Ajax vs NEC Nijmegen  [MATCH_ODDS] LAY NEC  (Δ0s)
+    • 2026-02-27  Fortuna Düsseldorf vs VfL Bochum 1848  [MATCH_ODDS] LAY VfL Bochum  (Δ0s)
+    • 2026-03-08  Lens vs Metz  [MATCH_ODDS] LAY FC Metz  (Δ0s)
+    • 2026-03-14  Inter vs Atalanta  [MATCH_ODDS] LAY Atalanta  (Δ90s)
+    • 2026-03-14  Hertha BSC vs VfL Bochum 1848  [MATCH_ODDS] LAY VfL Bochum  (Δ0s)
+    • 2026-03-21  Ipswich Town vs Millwall  [MATCH_ODDS] LAY Millwall  (Δ149s)
+    • 2026-03-22  Olympique Lyonnais vs Monaco  [MATCH_ODDS] LAY AS Monaco  (Δ0s)
+
+──────────────────────────────────────────────────────────────────────
+[OCCASIONAL] Bot 9325 × Bot 35703  →  3 overlapping bet(s)
+  Drakito nos Top da Europa Sem Fexo
+  Drakito 1º Tempo
+  Overlaps:
+    • 2026-01-31  Napoli vs Fiorentina  [MATCH_ODDS] LAY Fiorentina  (Δ177s)
+    • 2026-02-10  Chelsea vs Leeds United  [MATCH_ODDS] LAY Leeds United  (Δ20s)
+    • 2026-03-04  Manchester City vs Nottingham Forest  [MATCH_ODDS] LAY Nottingham Forest  (Δ3s)
+
+──────────────────────────────────────────────────────────────────────
+[OCCASIONAL] Bot 9328 × Bot 35703  →  3 overlapping bet(s)
+  Drakito nos Top da Europa Com Fexo no Empate 
+  Drakito 1º Tempo
+  Overlaps:
+    • 2026-01-31  Napoli vs Fiorentina  [MATCH_ODDS] LAY Fiorentina  (Δ177s)
+    • 2026-02-10  Chelsea vs Leeds United  [MATCH_ODDS] LAY Leeds United  (Δ20s)
+    • 2026-03-04  Manchester City vs Nottingham Forest  [MATCH_ODDS] LAY Nottingham Forest  (Δ3s)
+
+──────────────────────────────────────────────────────────────────────
+[OCCASIONAL] Bot 35689 × Bot 35696  →  3 overlapping bet(s)
+  Back Casa - 1,40/2,40 - Sem saida - Global
+  Back Pres Casa - 1,50/2,60 - Bruto - Global
+  Overlaps:
+    • 2026-02-01  Real Madrid vs Rayo Vallecano  [MATCH_ODDS] BACK Real Madrid  (Δ51s)
+    • 2026-02-04  Flamengo vs Internacional  [MATCH_ODDS] BACK Flamengo  (Δ73s)
+    • 2026-02-14  TSG Hoffenheim vs SC Freiburg  [MATCH_ODDS] BACK 1899 Hoffenheim  (Δ0s)
+
+──────────────────────────────────────────────────────────────────────
+[OCCASIONAL] Bot 35298 × Bot 35706  →  2 overlapping bet(s)
+  Lay Goleada Super Fav. Fechando no 3x0
+  Lay Goleada Casa - Semi Bruto - Global
+  Overlaps:
+    • 2026-02-25  Cruzeiro vs Corinthians  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ191s)
+    • 2026-02-26  Palmeiras vs Fluminense  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ281s)
+
+──────────────────────────────────────────────────────────────────────
+[OCCASIONAL] Bot 35293 × Bot 35706  →  2 overlapping bet(s)
+  Lay Goleada Casa Fecha aos 80
+  Lay Goleada Casa - Semi Bruto - Global
+  Overlaps:
+    • 2026-02-25  Cruzeiro vs Corinthians  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ191s)
+    • 2026-02-26  Palmeiras vs Fluminense  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ281s)
+
+──────────────────────────────────────────────────────────────────────
+[OCCASIONAL] Bot 35296 × Bot 35706  →  2 overlapping bet(s)
+  Lay Goleada Super Fav. Sem Fechar
+  Lay Goleada Casa - Semi Bruto - Global
+  Overlaps:
+    • 2026-02-25  Cruzeiro vs Corinthians  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ191s)
+    • 2026-02-26  Palmeiras vs Fluminense  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ281s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 35298 × Bot 144788  →  1 overlapping bet(s)
+  Lay Goleada Super Fav. Fechando no 3x0
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol no Intervalo ou no 3º Gol
+  Overlaps:
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ179s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 35293 × Bot 144788  →  1 overlapping bet(s)
+  Lay Goleada Casa Fecha aos 80
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol no Intervalo ou no 3º Gol
+  Overlaps:
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ179s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 35296 × Bot 144788  →  1 overlapping bet(s)
+  Lay Goleada Super Fav. Sem Fechar
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol no Intervalo ou no 3º Gol
+  Overlaps:
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ179s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 35298 × Bot 144783  →  1 overlapping bet(s)
+  Lay Goleada Super Fav. Fechando no 3x0
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol 
+  Overlaps:
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ179s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 35293 × Bot 144783  →  1 overlapping bet(s)
+  Lay Goleada Casa Fecha aos 80
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol 
+  Overlaps:
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ179s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 35296 × Bot 144783  →  1 overlapping bet(s)
+  Lay Goleada Super Fav. Sem Fechar
+  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol 
+  Overlaps:
+    • 2026-03-22  Vasco da Gama vs Grêmio  [CORRECT_SCORE] LAY ANY OTHER HOME WIN  (Δ179s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 1438 × Bot 35705  →  1 overlapping bet(s)
+  Lay Goleada da zebra visitante no 2x0 Fechando
+  Lay Goleada Fora - 0x2 - Semi Bruto - Global
+  Overlaps:
+    • 2026-03-21  Auckland vs Macarthur  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ254s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 1334 × Bot 35705  →  1 overlapping bet(s)
+  Lay Goleada da zebra visitante no 2x0 NÃO fecha
+  Lay Goleada Fora - 0x2 - Semi Bruto - Global
+  Overlaps:
+    • 2026-03-21  Auckland vs Macarthur  [CORRECT_SCORE] LAY ANY OTHER AWAY WIN  (Δ254s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 1868 × Bot 35703  →  1 overlapping bet(s)
+  Lay Zebrão
+  Drakito 1º Tempo
+  Overlaps:
+    • 2026-03-21  Benfica vs Vitória Guimarães  [MATCH_ODDS] LAY Vitoria de Guimaraes  (Δ228s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 9328 × Bot 35675  →  1 overlapping bet(s)
+  Drakito nos Top da Europa Com Fexo no Empate 
+  Drakito 2º Tempo
+  Overlaps:
+    • 2026-03-15  Manchester United vs Aston Villa  [MATCH_ODDS] LAY Aston Villa  (Δ8s)
+
+──────────────────────────────────────────────────────────────────────
+[RARE] Bot 9325 × Bot 35675  →  1 overlapping bet(s)
+  Drakito nos Top da Europa Sem Fexo
+  Drakito 2º Tempo
+  Overlaps:
+    • 2026-03-15  Manchester United vs Aston Villa  [MATCH_ODDS] LAY Aston Villa  (Δ8s)
