@@ -1,0 +1,512 @@
+Sweet-spot analysis v2 — 2026-03-30 22:46
+Eligible bots: 67  |  Sweet spots: 35  |  None: 32
+Excluded (variable stake): 37
+Scoring: R² × Sharpe × ProfitFactor / (DD + 0.5×MaxLossRatio + 0.05)
+
+
+──────────────────────────────────────────────────────────────────────
+#1  BOT 35706  Lay Goleada Casa - Semi Bruto - Global
+  Strategy: LAY  |  Total ops (bot): 135
+  Best sweet spot: odd=12≤odd<18 & liquidity=200k≤liq<1M
+    Ops: 20 | Win rate: 100.0% | R²: 0.93 | Sharpe: 1.91 | Profit Factor: 1266630000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +1266.63
+  Top-5 candidates:
+      #1  odd=12≤odd<18 & liquidity=200k≤liq<1M  →  20 ops | WR 100.0% | R²=0.93 | Sharpe=1.91 | PF=1266630000000.00 | P&L +1266.63
+      #2  odd=18≤odd<25 & liquidity=200k≤liq<1M  →  16 ops | WR 100.0% | R²=0.93 | Sharpe=1.81 | PF=933300000000.00 | P&L +933.30
+      #3  odd=8≤odd<12 & liquidity=50k≤liq<200k  →  9 ops | WR 100.0% | R²=0.93 | Sharpe=1.90 | PF=566650000000.00 | P&L +566.65
+      #4  odd=18≤odd<25  →  44 ops | WR 97.7% | R²=0.59 | Sharpe=0.39 | PF=3.94 | P&L +1716.62
+      #5  odd=18≤odd<25 & score=0-0  →  44 ops | WR 97.7% | R²=0.59 | Sharpe=0.39 | PF=3.94 | P&L +1716.62
+
+──────────────────────────────────────────────────────────────────────
+#2  BOT 35705  Lay Goleada Fora - 0x2 - Semi Bruto - Global
+  Strategy: LAY  |  Total ops (bot): 35
+  Best sweet spot: odd=5≤odd<8
+    Ops: 14 | Win rate: 100.0% | R²: 1.00 | Sharpe: 6.11 | Profit Factor: 263780000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +263.78
+  Top-5 candidates:
+      #1  odd=5≤odd<8  →  14 ops | WR 100.0% | R²=1.00 | Sharpe=6.11 | PF=263780000000.00 | P&L +263.78
+      #2  odd=5≤odd<8 & minute=45-59'  →  14 ops | WR 100.0% | R²=1.00 | Sharpe=6.11 | PF=263780000000.00 | P&L +263.78
+      #3  odd=5≤odd<8 & score=away_winning  →  14 ops | WR 100.0% | R²=1.00 | Sharpe=6.11 | PF=263780000000.00 | P&L +263.78
+      #4  odd=5≤odd<8 & liquidity=10k≤liq<50k  →  8 ops | WR 100.0% | R²=1.00 | Sharpe=5.82 | PF=159040000000.00 | P&L +159.04
+      #5  period=period=1.5  →  8 ops | WR 100.0% | R²=0.95 | Sharpe=2.00 | PF=196410000000.00 | P&L +196.41
+
+──────────────────────────────────────────────────────────────────────
+#3  BOT 35296  Lay Goleada Super Fav. Sem Fechar
+  Strategy: LAY  |  Total ops (bot): 40
+  Best sweet spot: odd=5≤odd<8
+    Ops: 12 | Win rate: 100.0% | R²: 1.00 | Sharpe: 5.73 | Profit Factor: 234390000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +234.39
+  Top-5 candidates:
+      #1  odd=5≤odd<8  →  12 ops | WR 100.0% | R²=1.00 | Sharpe=5.73 | PF=234390000000.00 | P&L +234.39
+      #2  odd=5≤odd<8 & score=home_winning  →  12 ops | WR 100.0% | R²=1.00 | Sharpe=5.73 | PF=234390000000.00 | P&L +234.39
+      #3  odd=5≤odd<8 & period=period=1  →  11 ops | WR 100.0% | R²=1.00 | Sharpe=6.07 | PF=219240000000.00 | P&L +219.24
+      #4  minute=0-14'  →  18 ops | WR 94.4% | R²=0.91 | Sharpe=0.46 | PF=3.66 | P&L +272.51
+      #5  minute=0-14' & score=home_winning  →  18 ops | WR 94.4% | R²=0.91 | Sharpe=0.46 | PF=3.66 | P&L +272.51
+
+──────────────────────────────────────────────────────────────────────
+#4  BOT 101219  Lay 0x2
+  Strategy: LAY  |  Total ops (bot): 26
+  Best sweet spot: odd=odd≥40
+    Ops: 16 | Win rate: 100.0% | R²: 1.00 | Sharpe: 4.66 | Profit Factor: 280900000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +280.90
+  Top-5 candidates:
+      #1  odd=odd≥40  →  16 ops | WR 100.0% | R²=1.00 | Sharpe=4.66 | PF=280900000000.00 | P&L +280.90
+      #2  odd=odd≥40 & minute=pre-match  →  16 ops | WR 100.0% | R²=1.00 | Sharpe=4.66 | PF=280900000000.00 | P&L +280.90
+      #3  odd=odd≥40 & score=0-0  →  16 ops | WR 100.0% | R²=1.00 | Sharpe=4.66 | PF=280900000000.00 | P&L +280.90
+      #4  odd=odd≥40 & period=period=-1  →  16 ops | WR 100.0% | R²=1.00 | Sharpe=4.66 | PF=280900000000.00 | P&L +280.90
+      #5  odd=odd≥40 & liquidity=50k≤liq<200k  →  11 ops | WR 100.0% | R²=0.99 | Sharpe=5.24 | PF=185380000000.00 | P&L +185.38
+
+──────────────────────────────────────────────────────────────────────
+#5  BOT 21762  Portugal Back Casa Punter 
+  Strategy: BACK  |  Total ops (bot): 13
+  Best sweet spot: odd=odd<2
+    Ops: 11 | Win rate: 100.0% | R²: 1.00 | Sharpe: 3.66 | Profit Factor: 253000000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +253.00
+  Top-5 candidates:
+      #1  odd=odd<2  →  11 ops | WR 100.0% | R²=1.00 | Sharpe=3.66 | PF=253000000000.00 | P&L +253.00
+      #2  odd=odd<2 & minute=pre-match  →  11 ops | WR 100.0% | R²=1.00 | Sharpe=3.66 | PF=253000000000.00 | P&L +253.00
+      #3  odd=odd<2 & score=0-0  →  11 ops | WR 100.0% | R²=1.00 | Sharpe=3.66 | PF=253000000000.00 | P&L +253.00
+      #4  odd=odd<2 & period=period=-1  →  11 ops | WR 100.0% | R²=1.00 | Sharpe=3.66 | PF=253000000000.00 | P&L +253.00
+      #5  liquidity=200k≤liq<1M  →  10 ops | WR 100.0% | R²=1.00 | Sharpe=3.49 | PF=230000000000.00 | P&L +230.00
+
+──────────────────────────────────────────────────────────────────────
+#6  BOT 35298  Lay Goleada Super Fav. Fechando no 3x0
+  Strategy: LAY  |  Total ops (bot): 41
+  Best sweet spot: odd=5≤odd<8
+    Ops: 12 | Win rate: 100.0% | R²: 1.00 | Sharpe: 4.08 | Profit Factor: 205820000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +205.82
+  Top-5 candidates:
+      #1  odd=5≤odd<8  →  12 ops | WR 100.0% | R²=1.00 | Sharpe=4.08 | PF=205820000000.00 | P&L +205.82
+      #2  odd=5≤odd<8 & score=home_winning  →  12 ops | WR 100.0% | R²=1.00 | Sharpe=4.08 | PF=205820000000.00 | P&L +205.82
+      #3  odd=5≤odd<8 & period=period=1  →  11 ops | WR 100.0% | R²=1.00 | Sharpe=3.99 | PF=190670000000.00 | P&L +190.67
+      #4  minute=0-14' & liquidity=200k≤liq<1M  →  11 ops | WR 90.9% | R²=0.94 | Sharpe=0.93 | PF=6.92 | P&L +108.83
+      #5  odd=8≤odd<12 & liquidity=200k≤liq<1M  →  8 ops | WR 87.5% | R²=0.84 | Sharpe=0.61 | PF=3.67 | P&L +49.10
+
+──────────────────────────────────────────────────────────────────────
+#7  BOT 1333  Lay 0x1
+  Strategy: LAY  |  Total ops (bot): 61
+  Best sweet spot: minute=15-29' & liquidity=10k≤liq<50k
+    Ops: 10 | Win rate: 100.0% | R²: 0.89 | Sharpe: 1.31 | Profit Factor: 566800000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +566.80
+  Top-5 candidates:
+      #1  minute=15-29' & liquidity=10k≤liq<50k  →  10 ops | WR 100.0% | R²=0.89 | Sharpe=1.31 | PF=566800000000.00 | P&L +566.80
+      #2  odd=18≤odd<25 & liquidity=200k≤liq<1M  →  12 ops | WR 100.0% | R²=0.83 | Sharpe=1.09 | PF=577320000000.00 | P&L +577.32
+      #3  liquidity=200k≤liq<1M  →  18 ops | WR 100.0% | R²=0.79 | Sharpe=0.95 | PF=671290000000.00 | P&L +671.29
+      #4  score=0-0 & liquidity=200k≤liq<1M  →  18 ops | WR 100.0% | R²=0.79 | Sharpe=0.95 | PF=671290000000.00 | P&L +671.29
+      #5  odd=18≤odd<25 & liquidity=50k≤liq<200k  →  14 ops | WR 100.0% | R²=0.80 | Sharpe=1.02 | PF=605250000000.00 | P&L +605.25
+
+──────────────────────────────────────────────────────────────────────
+#8  BOT 1334  Lay Goleada da zebra visitante no 2x0 NÃO fecha
+  Strategy: LAY  |  Total ops (bot): 106
+  Best sweet spot: odd=5≤odd<8 & liquidity=10k≤liq<50k
+    Ops: 8 | Win rate: 100.0% | R²: 0.96 | Sharpe: 2.11 | Profit Factor: 290620000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +290.62
+  Top-5 candidates:
+      #1  odd=5≤odd<8 & liquidity=10k≤liq<50k  →  8 ops | WR 100.0% | R²=0.96 | Sharpe=2.11 | PF=290620000000.00 | P&L +290.62
+      #2  minute=30-44' & liquidity=200k≤liq<1M  →  10 ops | WR 100.0% | R²=0.98 | Sharpe=2.16 | PF=234810000000.00 | P&L +234.81
+      #3  liquidity=liq≥1M  →  8 ops | WR 100.0% | R²=0.99 | Sharpe=2.52 | PF=124510000000.00 | P&L +124.51
+      #4  score=away_winning & liquidity=liq≥1M  →  8 ops | WR 100.0% | R²=0.99 | Sharpe=2.52 | PF=124510000000.00 | P&L +124.51
+      #5  odd=25≤odd<40  →  8 ops | WR 100.0% | R²=1.00 | Sharpe=3.11 | PF=35130000000.00 | P&L +35.13
+
+──────────────────────────────────────────────────────────────────────
+#9  BOT 35293  Lay Goleada Casa Fecha aos 80
+  Strategy: LAY  |  Total ops (bot): 50
+  Best sweet spot: odd=5≤odd<8 & minute=0-14'
+    Ops: 8 | Win rate: 100.0% | R²: 0.99 | Sharpe: 3.52 | Profit Factor: 129230000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +129.23
+  Top-5 candidates:
+      #1  odd=5≤odd<8 & minute=0-14'  →  8 ops | WR 100.0% | R²=0.99 | Sharpe=3.52 | PF=129230000000.00 | P&L +129.23
+      #2  minute=0-14'  →  17 ops | WR 94.1% | R²=0.95 | Sharpe=0.92 | PF=21.23 | P&L +295.93
+      #3  minute=0-14' & score=home_winning  →  17 ops | WR 94.1% | R²=0.95 | Sharpe=0.92 | PF=21.23 | P&L +295.93
+      #4  minute=0-14' & liquidity=200k≤liq<1M  →  11 ops | WR 90.9% | R²=0.94 | Sharpe=1.04 | PF=8.92 | P&L +115.82
+      #5  odd=8≤odd<12 & liquidity=200k≤liq<1M  →  9 ops | WR 88.9% | R²=0.92 | Sharpe=0.68 | PF=4.51 | P&L +51.30
+
+──────────────────────────────────────────────────────────────────────
+#10  BOT 1868  Lay Zebrão
+  Strategy: LAY  |  Total ops (bot): 28
+  Best sweet spot: minute=30-44'
+    Ops: 8 | Win rate: 100.0% | R²: 0.99 | Sharpe: 3.44 | Profit Factor: 112880000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +112.88
+  Top-5 candidates:
+      #1  minute=30-44'  →  8 ops | WR 100.0% | R²=0.99 | Sharpe=3.44 | PF=112880000000.00 | P&L +112.88
+      #2  minute=30-44' & score=0-0  →  8 ops | WR 100.0% | R²=0.99 | Sharpe=3.44 | PF=112880000000.00 | P&L +112.88
+      #3  minute=0-14'  →  12 ops | WR 100.0% | R²=0.92 | Sharpe=1.31 | PF=277660000000.00 | P&L +277.66
+      #4  minute=0-14' & score=0-0  →  12 ops | WR 100.0% | R²=0.92 | Sharpe=1.31 | PF=277660000000.00 | P&L +277.66
+      #5  liquidity=liq≥1M  →  9 ops | WR 100.0% | R²=0.98 | Sharpe=2.76 | PF=120170000000.00 | P&L +120.17
+
+──────────────────────────────────────────────────────────────────────
+#11  BOT 35709  Longo Under 3,5
+  Strategy: BACK  |  Total ops (bot): 30
+  Best sweet spot: score=away_winning
+    Ops: 8 | Win rate: 100.0% | R²: 1.00 | Sharpe: 11.72 | Profit Factor: 31000000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +31.00
+  Top-5 candidates:
+      #1  score=away_winning  →  8 ops | WR 100.0% | R²=1.00 | Sharpe=11.72 | PF=31000000000.00 | P&L +31.00
+      #2  odd=odd<2 & score=away_winning  →  8 ops | WR 100.0% | R²=1.00 | Sharpe=11.72 | PF=31000000000.00 | P&L +31.00
+      #3  minute=45-59'  →  12 ops | WR 91.7% | R²=0.91 | Sharpe=1.01 | PF=6.24 | P&L +36.95
+      #4  odd=odd<2 & minute=45-59'  →  12 ops | WR 91.7% | R²=0.91 | Sharpe=1.01 | PF=6.24 | P&L +36.95
+      #5  minute=45-59' & liquidity=10k≤liq<50k  →  12 ops | WR 91.7% | R²=0.91 | Sharpe=1.01 | PF=6.24 | P&L +36.95
+
+──────────────────────────────────────────────────────────────────────
+#12  BOT 9325  Drakito nos Top da Europa Sem Fexo
+  Strategy: LAY  |  Total ops (bot): 31
+  Best sweet spot: minute=15-29'
+    Ops: 20 | Win rate: 100.0% | R²: 0.93 | Sharpe: 1.51 | Profit Factor: 222610000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +222.61
+  Top-5 candidates:
+      #1  minute=15-29'  →  20 ops | WR 100.0% | R²=0.93 | Sharpe=1.51 | PF=222610000000.00 | P&L +222.61
+      #2  minute=15-29' & score=home_winning  →  20 ops | WR 100.0% | R²=0.93 | Sharpe=1.51 | PF=222610000000.00 | P&L +222.61
+      #3  minute=15-29' & liquidity=liq≥1M  →  16 ops | WR 100.0% | R²=0.94 | Sharpe=1.74 | PF=158470000000.00 | P&L +158.47
+      #4  odd=18≤odd<25 & minute=15-29'  →  9 ops | WR 100.0% | R²=0.98 | Sharpe=3.31 | PF=58130000000.00 | P&L +58.13
+
+──────────────────────────────────────────────────────────────────────
+#13  BOT 21763  Portugal Back Casa Fexo no Green 
+  Strategy: BACK  |  Total ops (bot): 13
+  Best sweet spot: odd=odd<2
+    Ops: 11 | Win rate: 100.0% | R²: 0.99 | Sharpe: 2.43 | Profit Factor: 116850000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +116.85
+  Top-5 candidates:
+      #1  odd=odd<2  →  11 ops | WR 100.0% | R²=0.99 | Sharpe=2.43 | PF=116850000000.00 | P&L +116.85
+      #2  odd=odd<2 & minute=pre-match  →  11 ops | WR 100.0% | R²=0.99 | Sharpe=2.43 | PF=116850000000.00 | P&L +116.85
+      #3  odd=odd<2 & score=0-0  →  11 ops | WR 100.0% | R²=0.99 | Sharpe=2.43 | PF=116850000000.00 | P&L +116.85
+      #4  odd=odd<2 & period=period=-1  →  11 ops | WR 100.0% | R²=0.99 | Sharpe=2.43 | PF=116850000000.00 | P&L +116.85
+      #5  liquidity=200k≤liq<1M  →  10 ops | WR 100.0% | R²=0.99 | Sharpe=2.43 | PF=109090000000.00 | P&L +109.09
+
+──────────────────────────────────────────────────────────────────────
+#14  BOT 21793  Italia Lay Fora Punter
+  Strategy: LAY  |  Total ops (bot): 32
+  Best sweet spot: odd=8≤odd<12
+    Ops: 8 | Win rate: 100.0% | R²: 0.94 | Sharpe: 1.93 | Profit Factor: 147510000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +147.51
+  Top-5 candidates:
+      #1  odd=8≤odd<12  →  8 ops | WR 100.0% | R²=0.94 | Sharpe=1.93 | PF=147510000000.00 | P&L +147.51
+      #2  odd=8≤odd<12 & minute=pre-match  →  8 ops | WR 100.0% | R²=0.94 | Sharpe=1.93 | PF=147510000000.00 | P&L +147.51
+      #3  odd=8≤odd<12 & score=0-0  →  8 ops | WR 100.0% | R²=0.94 | Sharpe=1.93 | PF=147510000000.00 | P&L +147.51
+      #4  odd=8≤odd<12 & liquidity=200k≤liq<1M  →  8 ops | WR 100.0% | R²=0.94 | Sharpe=1.93 | PF=147510000000.00 | P&L +147.51
+      #5  odd=8≤odd<12 & period=period=-1  →  8 ops | WR 100.0% | R²=0.94 | Sharpe=1.93 | PF=147510000000.00 | P&L +147.51
+
+──────────────────────────────────────────────────────────────────────
+#15  BOT 21805  Portugal Lay Fora Punter 
+  Strategy: LAY  |  Total ops (bot): 14
+  Best sweet spot: minute=pre-match
+    Ops: 14 | Win rate: 100.0% | R²: 0.97 | Sharpe: 1.09 | Profit Factor: 182210000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +182.21
+  Top-5 candidates:
+      #1  minute=pre-match  →  14 ops | WR 100.0% | R²=0.97 | Sharpe=1.09 | PF=182210000000.00 | P&L +182.21
+      #2  score=0-0  →  14 ops | WR 100.0% | R²=0.97 | Sharpe=1.09 | PF=182210000000.00 | P&L +182.21
+      #3  period=period=-1  →  14 ops | WR 100.0% | R²=0.97 | Sharpe=1.09 | PF=182210000000.00 | P&L +182.21
+      #4  minute=pre-match & score=0-0  →  14 ops | WR 100.0% | R²=0.97 | Sharpe=1.09 | PF=182210000000.00 | P&L +182.21
+      #5  liquidity=200k≤liq<1M  →  11 ops | WR 100.0% | R²=0.94 | Sharpe=1.53 | PF=90320000000.00 | P&L +90.32
+
+──────────────────────────────────────────────────────────────────────
+#16  BOT 21806  Portugal Lay Fora Fexo no Green e no Red 
+  Strategy: LAY  |  Total ops (bot): 14
+  Best sweet spot: liquidity=200k≤liq<1M
+    Ops: 11 | Win rate: 100.0% | R²: 0.95 | Sharpe: 1.69 | Profit Factor: 60490000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +60.49
+  Top-5 candidates:
+      #1  liquidity=200k≤liq<1M  →  11 ops | WR 100.0% | R²=0.95 | Sharpe=1.69 | PF=60490000000.00 | P&L +60.49
+      #2  minute=pre-match & liquidity=200k≤liq<1M  →  11 ops | WR 100.0% | R²=0.95 | Sharpe=1.69 | PF=60490000000.00 | P&L +60.49
+      #3  score=0-0 & liquidity=200k≤liq<1M  →  11 ops | WR 100.0% | R²=0.95 | Sharpe=1.69 | PF=60490000000.00 | P&L +60.49
+
+──────────────────────────────────────────────────────────────────────
+#17  BOT 35675  Drakito 2º Tempo
+  Strategy: LAY  |  Total ops (bot): 31
+  Best sweet spot: period=period=1
+    Ops: 8 | Win rate: 100.0% | R²: 0.95 | Sharpe: 1.04 | Profit Factor: 17210000000.00
+    DD: 0.0% | Max single loss: 0.0 (0% of P&L) | Net P&L: +17.21
+  Top-5 candidates:
+      #1  period=period=1  →  8 ops | WR 100.0% | R²=0.95 | Sharpe=1.04 | PF=17210000000.00 | P&L +17.21
+
+──────────────────────────────────────────────────────────────────────
+#18  BOT 17898  Lay 1-0
+  Strategy: LAY  |  Total ops (bot): 171
+  Best sweet spot: minute=15-29' & liquidity=50k≤liq<200k
+    Ops: 9 | Win rate: 77.8% | R²: 0.81 | Sharpe: 1.03 | Profit Factor: 36.93
+    DD: 2.2% | Max single loss: 8.8 (2% of P&L) | Net P&L: +389.17
+  Top-5 candidates:
+      #1  minute=15-29' & liquidity=50k≤liq<200k  →  9 ops | WR 77.8% | R²=0.81 | Sharpe=1.03 | PF=36.93 | P&L +389.17
+      #2  odd=12≤odd<18 & minute=15-29'  →  17 ops | WR 82.4% | R²=0.93 | Sharpe=0.87 | PF=7.70 | P&L +891.95
+      #3  odd=12≤odd<18 & liquidity=10k≤liq<50k  →  45 ops | WR 75.6% | R²=0.95 | Sharpe=0.38 | PF=2.45 | P&L +1834.59
+      #4  liquidity=10k≤liq<50k  →  65 ops | WR 78.5% | R²=0.60 | Sharpe=0.19 | PF=1.67 | P&L +1800.04
+      #5  score=0-0 & liquidity=10k≤liq<50k  →  65 ops | WR 78.5% | R²=0.60 | Sharpe=0.19 | PF=1.67 | P&L +1800.04
+
+──────────────────────────────────────────────────────────────────────
+#19  BOT 35696  Back Pres Casa - 1,50/2,60 - Bruto - Global
+  Strategy: BACK  |  Total ops (bot): 35
+  Best sweet spot: odd=2≤odd<3
+    Ops: 10 | Win rate: 90.0% | R²: 1.00 | Sharpe: 1.52 | Profit Factor: 11.86
+    DD: 0.0% | Max single loss: 100.0 (9% of P&L) | Net P&L: +1086.28
+  Top-5 candidates:
+      #1  odd=2≤odd<3  →  10 ops | WR 90.0% | R²=1.00 | Sharpe=1.52 | PF=11.86 | P&L +1086.28
+      #2  odd=2≤odd<3 & liquidity=200k≤liq<1M  →  10 ops | WR 90.0% | R²=1.00 | Sharpe=1.52 | PF=11.86 | P&L +1086.28
+      #3  odd=2≤odd<3 & score=0-0  →  9 ops | WR 88.9% | R²=1.00 | Sharpe=1.41 | PF=10.36 | P&L +936.28
+
+──────────────────────────────────────────────────────────────────────
+#20  BOT 21822  Espanha Back Casa Fexo no Red 
+  Strategy: BACK  |  Total ops (bot): 23
+  Best sweet spot: odd=odd<2 & liquidity=200k≤liq<1M
+    Ops: 15 | Win rate: 93.3% | R²: 0.95 | Sharpe: 1.07 | Profit Factor: 9.10
+    DD: 12.3% | Max single loss: 50.0 (12% of P&L) | Net P&L: +405.11
+  Top-5 candidates:
+      #1  odd=odd<2 & liquidity=200k≤liq<1M  →  15 ops | WR 93.3% | R²=0.95 | Sharpe=1.07 | PF=9.10 | P&L +405.11
+      #2  odd=odd<2  →  20 ops | WR 85.0% | R²=0.85 | Sharpe=0.58 | PF=3.44 | P&L +368.88
+      #3  odd=odd<2 & minute=pre-match  →  20 ops | WR 85.0% | R²=0.85 | Sharpe=0.58 | PF=3.44 | P&L +368.88
+      #4  odd=odd<2 & score=0-0  →  20 ops | WR 85.0% | R²=0.85 | Sharpe=0.58 | PF=3.44 | P&L +368.88
+      #5  odd=odd<2 & period=period=-1  →  20 ops | WR 85.0% | R²=0.85 | Sharpe=0.58 | PF=3.44 | P&L +368.88
+
+──────────────────────────────────────────────────────────────────────
+#21  BOT 35703  Drakito 1º Tempo
+  Strategy: LAY  |  Total ops (bot): 65
+  Best sweet spot: minute=0-14'
+    Ops: 15 | Win rate: 46.7% | R²: 0.91 | Sharpe: 0.53 | Profit Factor: 10.52
+    DD: 7.3% | Max single loss: 3.0 (5% of P&L) | Net P&L: +59.19
+  Top-5 candidates:
+      #1  minute=0-14'  →  15 ops | WR 46.7% | R²=0.91 | Sharpe=0.53 | PF=10.52 | P&L +59.19
+      #2  minute=0-14' & score=home_winning  →  15 ops | WR 46.7% | R²=0.91 | Sharpe=0.53 | PF=10.52 | P&L +59.19
+      #3  minute=30-44' & liquidity=200k≤liq<1M  →  8 ops | WR 75.0% | R²=0.81 | Sharpe=0.47 | PF=5.81 | P&L +11.21
+      #4  liquidity=liq≥1M  →  13 ops | WR 46.2% | R²=0.81 | Sharpe=0.34 | PF=2.85 | P&L +5.91
+      #5  score=home_winning & liquidity=liq≥1M  →  13 ops | WR 46.2% | R²=0.81 | Sharpe=0.34 | PF=2.85 | P&L +5.91
+
+──────────────────────────────────────────────────────────────────────
+#22  BOT 21820  Espanha Back Casa Punter
+  Strategy: BACK  |  Total ops (bot): 23
+  Best sweet spot: odd=odd<2 & liquidity=200k≤liq<1M
+    Ops: 15 | Win rate: 93.3% | R²: 0.91 | Sharpe: 0.88 | Profit Factor: 6.42
+    DD: 18.4% | Max single loss: 100.0 (18% of P&L) | Net P&L: +542.04
+  Top-5 candidates:
+      #1  odd=odd<2 & liquidity=200k≤liq<1M  →  15 ops | WR 93.3% | R²=0.91 | Sharpe=0.88 | PF=6.42 | P&L +542.04
+      #2  odd=odd<2  →  20 ops | WR 90.0% | R²=0.91 | Sharpe=0.61 | PF=3.81 | P&L +562.04
+      #3  odd=odd<2 & minute=pre-match  →  20 ops | WR 90.0% | R²=0.91 | Sharpe=0.61 | PF=3.81 | P&L +562.04
+      #4  odd=odd<2 & score=0-0  →  20 ops | WR 90.0% | R²=0.91 | Sharpe=0.61 | PF=3.81 | P&L +562.04
+      #5  odd=odd<2 & period=period=-1  →  20 ops | WR 90.0% | R²=0.91 | Sharpe=0.61 | PF=3.81 | P&L +562.04
+
+──────────────────────────────────────────────────────────────────────
+#23  BOT 35689  Back Casa - 1,40/2,40 - Sem saida - Global
+  Strategy: BACK  |  Total ops (bot): 41
+  Best sweet spot: liquidity=200k≤liq<1M
+    Ops: 8 | Win rate: 87.5% | R²: 0.80 | Sharpe: 0.78 | Profit Factor: 4.68
+    DD: 27.2% | Max single loss: 100.0 (27% of P&L) | Net P&L: +368.04
+  Top-5 candidates:
+      #1  liquidity=200k≤liq<1M  →  8 ops | WR 87.5% | R²=0.80 | Sharpe=0.78 | PF=4.68 | P&L +368.04
+      #2  odd=odd<2 & liquidity=200k≤liq<1M  →  8 ops | WR 87.5% | R²=0.80 | Sharpe=0.78 | PF=4.68 | P&L +368.04
+      #3  odd=odd<2 & minute=45-59'  →  11 ops | WR 72.7% | R²=0.79 | Sharpe=0.27 | PF=1.75 | P&L +224.23
+      #4  minute=45-59'  →  13 ops | WR 69.2% | R²=0.68 | Sharpe=0.22 | PF=1.57 | P&L +228.31
+
+──────────────────────────────────────────────────────────────────────
+#24  BOT 144783  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol 
+  Strategy: LAY  |  Total ops (bot): 90
+  Best sweet spot: odd=12≤odd<18 & liquidity=200k≤liq<1M
+    Ops: 9 | Win rate: 88.9% | R²: 0.99 | Sharpe: 0.51 | Profit Factor: 3.04
+    DD: 0.0% | Max single loss: 79.2 (49% of P&L) | Net P&L: +161.24
+  Top-5 candidates:
+      #1  odd=12≤odd<18 & liquidity=200k≤liq<1M  →  9 ops | WR 88.9% | R²=0.99 | Sharpe=0.51 | PF=3.04 | P&L +161.24
+
+──────────────────────────────────────────────────────────────────────
+#25  BOT 144788  Lay Goleada Casa - Semi Bruto - Global Fecha no 2º Gol no Intervalo ou no 3º Gol
+  Strategy: LAY  |  Total ops (bot): 89
+  Best sweet spot: odd=12≤odd<18 & liquidity=200k≤liq<1M
+    Ops: 9 | Win rate: 88.9% | R²: 0.99 | Sharpe: 0.50 | Profit Factor: 3.02
+    DD: 0.0% | Max single loss: 79.2 (50% of P&L) | Net P&L: +159.93
+  Top-5 candidates:
+      #1  odd=12≤odd<18 & liquidity=200k≤liq<1M  →  9 ops | WR 88.9% | R²=0.99 | Sharpe=0.50 | PF=3.02 | P&L +159.93
+
+──────────────────────────────────────────────────────────────────────
+#26  BOT 1968  Over 1,5 acima de 2,00
+  Strategy: BACK  |  Total ops (bot): 62
+  Best sweet spot: liquidity=50k≤liq<200k
+    Ops: 17 | Win rate: 70.6% | R²: 0.85 | Sharpe: 0.49 | Profit Factor: 3.06
+    DD: 17.7% | Max single loss: 100.0 (18% of P&L) | Net P&L: +565.56
+  Top-5 candidates:
+      #1  liquidity=50k≤liq<200k  →  17 ops | WR 70.6% | R²=0.85 | Sharpe=0.49 | PF=3.06 | P&L +565.56
+      #2  score=0-0 & liquidity=50k≤liq<200k  →  17 ops | WR 70.6% | R²=0.85 | Sharpe=0.49 | PF=3.06 | P&L +565.56
+      #3  odd=2≤odd<3 & liquidity=50k≤liq<200k  →  16 ops | WR 68.8% | R²=0.82 | Sharpe=0.43 | PF=2.70 | P&L +466.56
+      #4  minute=15-29'  →  10 ops | WR 70.0% | R²=0.82 | Sharpe=0.43 | PF=2.77 | P&L +266.03
+      #5  minute=15-29' & score=0-0  →  10 ops | WR 70.0% | R²=0.82 | Sharpe=0.43 | PF=2.77 | P&L +266.03
+
+──────────────────────────────────────────────────────────────────────
+#27  BOT 1438  Lay Goleada da zebra visitante no 2x0 Fechando
+  Strategy: LAY  |  Total ops (bot): 102
+  Best sweet spot: minute=30-44'
+    Ops: 36 | Win rate: 80.6% | R²: 0.87 | Sharpe: 0.43 | Profit Factor: 2.79
+    DD: 17.6% | Max single loss: 59.1 (18% of P&L) | Net P&L: +334.73
+  Top-5 candidates:
+      #1  minute=30-44'  →  36 ops | WR 80.6% | R²=0.87 | Sharpe=0.43 | PF=2.79 | P&L +334.73
+      #2  minute=30-44' & score=away_winning  →  36 ops | WR 80.6% | R²=0.87 | Sharpe=0.43 | PF=2.79 | P&L +334.73
+      #3  odd=8≤odd<12 & minute=30-44'  →  13 ops | WR 84.6% | R²=0.59 | Sharpe=0.62 | PF=4.13 | P&L +144.37
+      #4  odd=5≤odd<8 & minute=30-44'  →  14 ops | WR 71.4% | R²=0.78 | Sharpe=0.48 | PF=2.88 | P&L +154.30
+      #5  minute=30-44' & liquidity=50k≤liq<200k  →  22 ops | WR 81.8% | R²=0.73 | Sharpe=0.46 | PF=2.89 | P&L +190.00
+
+──────────────────────────────────────────────────────────────────────
+#28  BOT 17900  Over 1,5 no 1x0 ou 0x1
+  Strategy: BACK  |  Total ops (bot): 121
+  Best sweet spot: minute=45-59' & score=home_winning
+    Ops: 38 | Win rate: 89.5% | R²: 0.88 | Sharpe: 0.39 | Profit Factor: 2.72
+    DD: 22.7% | Max single loss: 100.0 (23% of P&L) | Net P&L: +430.73
+  Top-5 candidates:
+      #1  minute=45-59' & score=home_winning  →  38 ops | WR 89.5% | R²=0.88 | Sharpe=0.39 | PF=2.72 | P&L +430.73
+      #2  score=home_winning & liquidity=50k≤liq<200k  →  66 ops | WR 90.9% | R²=0.89 | Sharpe=0.32 | PF=2.44 | P&L +577.47
+      #3  score=home_winning  →  70 ops | WR 88.6% | R²=0.89 | Sharpe=0.20 | PF=1.75 | P&L +451.47
+      #4  odd=odd<2 & score=home_winning  →  70 ops | WR 88.6% | R²=0.89 | Sharpe=0.20 | PF=1.75 | P&L +451.47
+
+──────────────────────────────────────────────────────────────────────
+#29  BOT 21811  Portugal Lay Casa Punter 
+  Strategy: LAY  |  Total ops (bot): 14
+  Best sweet spot: minute=pre-match
+    Ops: 14 | Win rate: 92.9% | R²: 0.71 | Sharpe: 0.49 | Profit Factor: 3.76
+    DD: 36.3% | Max single loss: 100.0 (36% of P&L) | Net P&L: +275.70
+  Top-5 candidates:
+      #1  minute=pre-match  →  14 ops | WR 92.9% | R²=0.71 | Sharpe=0.49 | PF=3.76 | P&L +275.70
+      #2  score=0-0  →  14 ops | WR 92.9% | R²=0.71 | Sharpe=0.49 | PF=3.76 | P&L +275.70
+      #3  period=period=-1  →  14 ops | WR 92.9% | R²=0.71 | Sharpe=0.49 | PF=3.76 | P&L +275.70
+      #4  minute=pre-match & score=0-0  →  14 ops | WR 92.9% | R²=0.71 | Sharpe=0.49 | PF=3.76 | P&L +275.70
+
+──────────────────────────────────────────────────────────────────────
+#30  BOT 395  Vovô
+  Strategy: LAY  |  Total ops (bot): 49
+  Best sweet spot: liquidity=200k≤liq<1M
+    Ops: 20 | Win rate: 80.0% | R²: 0.73 | Sharpe: 0.39 | Profit Factor: 2.83
+    DD: 26.8% | Max single loss: 19.4 (24% of P&L) | Net P&L: +79.84
+  Top-5 candidates:
+      #1  liquidity=200k≤liq<1M  →  20 ops | WR 80.0% | R²=0.73 | Sharpe=0.39 | PF=2.83 | P&L +79.84
+      #2  minute=60-74' & liquidity=200k≤liq<1M  →  20 ops | WR 80.0% | R²=0.73 | Sharpe=0.39 | PF=2.83 | P&L +79.84
+      #3  score=home_winning & liquidity=200k≤liq<1M  →  20 ops | WR 80.0% | R²=0.73 | Sharpe=0.39 | PF=2.83 | P&L +79.84
+      #4  odd=odd≥40  →  21 ops | WR 90.5% | R²=0.77 | Sharpe=0.37 | PF=2.79 | P&L +48.02
+      #5  odd=odd≥40 & score=home_winning  →  21 ops | WR 90.5% | R²=0.77 | Sharpe=0.37 | PF=2.79 | P&L +48.02
+
+──────────────────────────────────────────────────────────────────────
+#31  BOT 9328  Drakito nos Top da Europa Com Fexo no Empate 
+  Strategy: LAY  |  Total ops (bot): 31
+  Best sweet spot: minute=15-29'
+    Ops: 20 | Win rate: 65.0% | R²: 0.83 | Sharpe: 0.37 | Profit Factor: 2.41
+    DD: 31.6% | Max single loss: 15.2 (17% of P&L) | Net P&L: +88.36
+  Top-5 candidates:
+      #1  minute=15-29'  →  20 ops | WR 65.0% | R²=0.83 | Sharpe=0.37 | PF=2.41 | P&L +88.36
+      #2  minute=15-29' & score=home_winning  →  20 ops | WR 65.0% | R²=0.83 | Sharpe=0.37 | PF=2.41 | P&L +88.36
+      #3  minute=15-29' & liquidity=liq≥1M  →  16 ops | WR 68.8% | R²=0.71 | Sharpe=0.40 | PF=2.48 | P&L +69.27
+
+──────────────────────────────────────────────────────────────────────
+#32  BOT 9173  Contend ud 8
+  Strategy: BACK  |  Total ops (bot): 93
+  Best sweet spot: odd=2≤odd<3
+    Ops: 23 | Win rate: 65.2% | R²: 0.71 | Sharpe: 0.30 | Profit Factor: 1.96
+    DD: 33.3% | Max single loss: 100.0 (14% of P&L) | Net P&L: +700.18
+  Top-5 candidates:
+      #1  odd=2≤odd<3  →  23 ops | WR 65.2% | R²=0.71 | Sharpe=0.30 | PF=1.96 | P&L +700.18
+      #2  odd=2≤odd<3 & minute=pre-match  →  23 ops | WR 65.2% | R²=0.71 | Sharpe=0.30 | PF=1.96 | P&L +700.18
+      #3  odd=2≤odd<3 & score=0-0  →  23 ops | WR 65.2% | R²=0.71 | Sharpe=0.30 | PF=1.96 | P&L +700.18
+      #4  odd=2≤odd<3 & period=period=-1  →  23 ops | WR 65.2% | R²=0.71 | Sharpe=0.30 | PF=1.96 | P&L +700.18
+      #5  odd=2≤odd<3 & liquidity=50k≤liq<200k  →  17 ops | WR 64.7% | R²=0.73 | Sharpe=0.29 | PF=1.88 | P&L +530.40
+
+──────────────────────────────────────────────────────────────────────
+#33  BOT 101202  Contend ud 6
+  Strategy: BACK  |  Total ops (bot): 61
+  Best sweet spot: odd=2≤odd<3
+    Ops: 28 | Win rate: 53.6% | R²: 0.78 | Sharpe: 0.24 | Profit Factor: 1.62
+    DD: 25.8% | Max single loss: 100.0 (12% of P&L) | Net P&L: +800.00
+  Top-5 candidates:
+      #1  odd=2≤odd<3  →  28 ops | WR 53.6% | R²=0.78 | Sharpe=0.24 | PF=1.62 | P&L +800.00
+      #2  odd=2≤odd<3 & minute=pre-match  →  28 ops | WR 53.6% | R²=0.78 | Sharpe=0.24 | PF=1.62 | P&L +800.00
+      #3  odd=2≤odd<3 & score=0-0  →  28 ops | WR 53.6% | R²=0.78 | Sharpe=0.24 | PF=1.62 | P&L +800.00
+      #4  odd=2≤odd<3 & period=period=-1  →  28 ops | WR 53.6% | R²=0.78 | Sharpe=0.24 | PF=1.62 | P&L +800.00
+      #5  odd=2≤odd<3 & liquidity=50k≤liq<200k  →  25 ops | WR 52.0% | R²=0.70 | Sharpe=0.20 | PF=1.51 | P&L +618.00
+
+──────────────────────────────────────────────────────────────────────
+#34  BOT 21765  Portugal Back Casa Fexo no Red
+  Strategy: BACK  |  Total ops (bot): 13
+  Best sweet spot: minute=pre-match
+    Ops: 13 | Win rate: 76.9% | R²: 0.62 | Sharpe: 0.32 | Profit Factor: 2.15
+    DD: 38.8% | Max single loss: 51.4 (30% of P&L) | Net P&L: +171.12
+  Top-5 candidates:
+      #1  minute=pre-match  →  13 ops | WR 76.9% | R²=0.62 | Sharpe=0.32 | PF=2.15 | P&L +171.12
+      #2  score=0-0  →  13 ops | WR 76.9% | R²=0.62 | Sharpe=0.32 | PF=2.15 | P&L +171.12
+      #3  period=period=-1  →  13 ops | WR 76.9% | R²=0.62 | Sharpe=0.32 | PF=2.15 | P&L +171.12
+      #4  minute=pre-match & score=0-0  →  13 ops | WR 76.9% | R²=0.62 | Sharpe=0.32 | PF=2.15 | P&L +171.12
+
+──────────────────────────────────────────────────────────────────────
+#35  BOT 35310  Lay 1x0 alterado
+  Strategy: LAY  |  Total ops (bot): 33
+  Best sweet spot: minute=30-44'
+    Ops: 9 | Win rate: 55.6% | R²: 0.84 | Sharpe: 0.29 | Profit Factor: 1.85
+    DD: 39.2% | Max single loss: 23.9 (48% of P&L) | Net P&L: +49.39
+  Top-5 candidates:
+      #1  minute=30-44'  →  9 ops | WR 55.6% | R²=0.84 | Sharpe=0.29 | PF=1.85 | P&L +49.39
+      #2  minute=30-44' & score=0-0  →  9 ops | WR 55.6% | R²=0.84 | Sharpe=0.29 | PF=1.85 | P&L +49.39
+
+
+======================================================================
+EXCLUDED — VARIABLE STAKE (Martingale / Cycles / etc.)
+  These bots cannot be reliably analysed with cumulative P&L graphs
+  because the stake size depends on previous bet results.
+  • [MARTINGALE] 35717 — Martin Palmeiras Back Casa
+  • [MARTINGALE] 35716 — Martin Flamengo Back Casa
+  • [CYCLES_METHOD] 35715 — Lay Fav. Casa 1º Tempo 1,81 a 2,00
+  • [MARTINGALE] 35714 — Under Limit 3,5 - Martin - Bruto - Global
+  • [MARTINGALE] 35713 — Real M Casa
+  • [MARTINGALE] 35708 — Liverpool M Casa
+  • [MARTINGALE] 35704 — Juventus M Casa
+  • [MARTINGALE] 35702 — Dortmund M Casa
+  • [MARTINGALE] 35700 — City M Casa
+  • [MARTINGALE] 35699 — Chelsea M Casa
+  • [MARTINGALE] 35697 — Bayern M Casa
+  • [MARTINGALE] 35693 — Back Empate - 1,70/2,10 - 65 aos 80 - Martin - Global
+  • [MARTINGALE] 35690 — Back Casa - 2,10/2,40 - Martin - Bruto - Global
+  • [MARTINGALE] 35686 — Martin Internacional Back Casa
+  • [MARTINGALE] 35685 — Martin Corinthians Back Casa
+  • [MARTINGALE] 35683 — Martin São Paulo Back Casa
+  • [MARTINGALE] 35682 — Martin Fluminense Back Casa
+  • [MARTINGALE] 35681 — Martin Grêmio Back Casa
+  • [STAKE_OVER_PROFIT_LOSS] 35680 — Under 1,5 HT - 1,80/2,50 - Com 1 gol - Global
+  • [MARTINGALE] 35678 — Porto M Casa
+  • [MARTINGALE] 35677 — Over 0,5 - 1,35/1,50 - Martin - Global
+  • [MARTINGALE] 35676 — Napoli M Casa
+  • [MARTINGALE] 35673 — Benfica M Casa
+  • [MARTINGALE] 35672 — Barcelona M Casa
+  • [MARTINGALE] 35668 — Martin Vitoria Lay Fora
+  • [MARTINGALE] 35665 — Martin Athetico Back Casa
+  • [MARTINGALE] 35664 — Martin Atletico-MG Back Casa
+  • [CYCLES_METHOD] 35311 — Lay Fav. Casa 1º Tempo 1,81 a 2,00
+  • [MARTINGALE] 35306 — Martin Serie A Under 2,5
+  • [CYCLES_METHOD] 35302 — Scalp Jogo Lento 3,5 Ciclos
+  • [CYCLES_METHOD] 35301 — Scalp Jogo Lento 1,5 Ciclos
+  • [CYCLES_METHOD] 35291 — Lay Fav. Casa 1º Tempo 1,01 a 2,60 Br
+  • [CYCLES_METHOD] 35290 — Lay Fav. Fora 1º Tempo 1,01 a 2,60 Br
+  • [CYCLES_METHOD] 35289 — Lay Fav. Casa 2º Tempo 1,01 a 2,60 Br
+  • [CYCLES_METHOD] 35288 — Lay Fav. Fora 2º Tempo 1,01 a 2,60 Br
+  • [MARTINGALE] 17899 — Over 0,5
+  • [MARTINGALE] 2748 — Martin Feat Guga 2,5
+
+======================================================================
+FIXED-STAKE BOTS WITH NO SWEET SPOT FOUND
+  • 101214 — Back Favorito (Inversão do Lay Zebrão para o Back) (no valid sweet spot)
+  • 35712 — Longo Under 6,5 (only 0 ops)
+  • 35711 — Longo Under 4,5 (no valid sweet spot)
+  • 35710 — Longo Under 5,5 (only 7 ops)
+  • 35707 — Lay Over 0,5 HT - 2,00/3,00 - Semi Bruto - Global (no valid sweet spot)
+  • 35698 — Cachorro Louco HT Bruto - Global (no valid sweet spot)
+  • 35695 — Back Mandante Europa Posse + Ataq P. + 4Vem5 + Sem saida (no valid sweet spot)
+  • 35694 — Back Mandante Europa Posse + Ataq P. + 4Vem5 + Com saida no Gol (no valid sweet spot)
+  • 35692 — Back Casa GLOBAL padrão + Live 2º Tempo (only 5 ops)
+  • 35691 — Back Casa EUROPA padrão + Live 1º Tempo (no valid sweet spot)
+  • 35679 — Under 1,5 - 85+ - Bruto - Global  (no valid sweet spot)
+  • 35671 — Back Casa EUROPA padrão G 21/22 (no valid sweet spot)
+  • 35314 — Lay Abaixo de 1,40 (no valid sweet spot)
+  • 35313 — Over 0,5 FT do Joel (only 1 ops)
+  • 35312 — Lay 0x1 Alterado (no valid sweet spot)
+  • 35309 — Over Apos 70 minutos com Fav Perdendo por 1 Gol (no valid sweet spot)
+  • 35308 — Lay Zebra Visitante Sendo Dominada (only 5 ops)
+  • 35305 — Over 1,5 até os 40 Minutos (only 1 ops)
+  • 35304 — Over 0,5 até os 55 com Fav. a 1,80 (no valid sweet spot)
+  • 35297 — Buscar o empate do time de Fora (only 3 ops)
+  • 35295 — Buscar o empate do time da Casa (no valid sweet spot)
+  • 35294 — Lay Goleada Fora Fecha aos 80 (no valid sweet spot)
+  • 35292 — Scalp 15 Minutos Br (only 4 ops)
+  • 35287 — Back Casa BR (no valid sweet spot)
+  • 21813 — Portugal Lay casa Fexo no Green e no Red (no valid sweet spot)
+  • 21807 — Italia Lay Casa Punter  (no valid sweet spot)
+  • 21799 — Italia Lay Fora Fexo no Green e no Red  (no valid sweet spot)
+  • 21759 — Espanha Back Casa Fexo no Green (no valid sweet spot)
+  • 17901 — Over 2.5  (no valid sweet spot)
+  • 17897 — Back Casa Fexo Rápido (no valid sweet spot)
+  • 9175 — Colossus Casa Zebra (no valid sweet spot)
+  • 1331 — Over 1,5 FAV 1,33 (no valid sweet spot)
